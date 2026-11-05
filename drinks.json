@@ -1,0 +1,4851 @@
+[
+ {
+  "n": "Aperol Spritz",
+  "c": "Spritz",
+  "d": "Let, bittersød og perlende",
+  "i": [
+   "6 cl Aperol",
+   "9 cl prosecco",
+   "Et skvæt danskvand",
+   "Appelsinskive"
+  ],
+  "g": "billeder/aperol-spritz.jpg"
+ },
+ {
+  "n": "Apple Spritz",
+  "c": "Spritz",
+  "i": [
+   "4 cl Råstoff Apple-Vanilla",
+   "Prosecco"
+  ],
+  "m": "Hæld Råstoff Apple-Vanilla i et glas med stilk, og top op med Prosecco.",
+  "g": "billeder/apple-spritz.jpg"
+ },
+ {
+  "n": "Kinda Busy",
+  "c": "Spritz",
+  "i": [
+   "4 cl SMÅ SPORT",
+   "Verdi Spumante"
+  ],
+  "m": "Hæld SMÅ SPORT i et glas med stilk, og top op med Verdi Spumante.",
+  "g": "billeder/kinda-busy.jpg"
+ },
+ {
+  "n": "Kir Royal",
+  "c": "Spritz",
+  "i": [
+   "2-4 cl CUBA Kurant",
+   "Verdi Spumante"
+  ],
+  "m": "Hæld CUBA Kurant i et glas med stilk, og top med Verdi Spumante.",
+  "g": "billeder/kir-royal.jpg"
+ },
+ {
+  "n": "Passion Spritz",
+  "c": "Spritz",
+  "i": [
+   "4 cl BARMIX Passion Sirup",
+   "2 cl CUBA Pure Vodka",
+   "Prosecco"
+  ],
+  "m": "Shake BARMIX Passion Sirup og CUBA Pure Vodka med isterninger. Si over i et vin- eller champagneglas. Top op med prosecco.",
+  "g": "billeder/passion-spritz.jpg"
+ },
+ {
+  "n": "Peach Spritz",
+  "c": "Spritz",
+  "i": [
+   "4 cl SMÅ SURE Sour Peach",
+   "Prosecco"
+  ],
+  "m": "Hæld SMÅ SURE Sour Peach i et glas med stilk, og top op med Prosecco.",
+  "g": "billeder/peach-spritz.jpg"
+ },
+ {
+  "n": "Pink Spritz",
+  "c": "Spritz",
+  "i": [
+   "6 cl Pure Pink Grape",
+   "Prosecco",
+   "Frisk grape"
+  ],
+  "m": "Hæld Pure Pink Grape i et glas og top op med Prosecco. Pynt med frisk grape.",
+  "g": "billeder/pink-spritz.jpg"
+ },
+ {
+  "n": "Pure Spritz",
+  "c": "Spritz",
+  "i": [
+   "6 cl Pure Pink Grape",
+   "Prosecco",
+   "Frisk grape"
+  ],
+  "m": "Top op med Prosecco. Pynt med frisk grape.",
+  "g": "billeder/pure-spritz.jpg"
+ },
+ {
+  "n": "Strawberry Spritz",
+  "c": "Spritz",
+  "i": [
+   "4 cl Råstoff Strawberry-Rhubarb",
+   "Prosecco"
+  ],
+  "m": "Hæld Råstoff Strawberry-Rhubarb i et glas med is og top op med Prosecco. Kan også laves med Verdi Spumante for lavere alkoholprocent.",
+  "g": "billeder/strawberry-spritz.jpg"
+ },
+ {
+  "n": "Sun Spritz",
+  "c": "Spritz",
+  "i": [
+   "4 cl Råstoff Pineapple-Vanilla",
+   "Prosecco"
+  ],
+  "m": "Hæld Råstoff Pineapple-Vanilla i et glas med stilk og top op med Prosecco. Kan også laves med Verdi Spumante for lavere alkoholprocent.",
+  "g": "billeder/sun-spritz.jpg"
+ },
+ {
+  "n": "Columbine",
+  "c": "Gin",
+  "i": [
+   "4 cl Harlegin Rhubarb gin",
+   "1 cl citronsaft",
+   "Sprite"
+  ],
+  "m": "Hæld gin og citronsaft over is og top op med Sprite.",
+  "g": "billeder/columbine.jpg"
+ },
+ {
+  "n": "G&T Smurf",
+  "c": "Gin",
+  "i": [
+   "4 cl gin",
+   "2 cl BARMIX Blue Curaçao Sirup",
+   "Tonic"
+  ],
+  "m": "Hæld gin og curaçao i et glas og rør. Top op med tonic og pynt med et par citronbåde.",
+  "g": "billeder/g-t-smurf.jpg"
+ },
+ {
+  "n": "Gimlet",
+  "c": "Gin",
+  "i": [
+   "4 cl gin",
+   "4 cl BARMIX Lime Sirup"
+  ],
+  "m": "Hæld gin og limesirup over is og rør til drinken er iskold. Pynt evt. med en skive lime.",
+  "g": "billeder/gimlet.jpg"
+ },
+ {
+  "n": "Gin & Tonic",
+  "c": "Gin",
+  "i": [
+   "4 cl Harlegin Premium gin",
+   "Tonic",
+   "Agurk eller rosmarin"
+  ],
+  "m": "Hæld gin over is og top op med tonic. Pynt med agurk eller rosmarin.",
+  "g": "billeder/gin-tonic.jpg"
+ },
+ {
+  "n": "Gin Daisy",
+  "c": "Gin",
+  "i": [
+   "4 cl gin",
+   "½ cl frisk citronsaft",
+   "2 cl BARMIX Grenadine Sirup",
+   "Tonic"
+  ],
+  "m": "Hæld gin over is og tilsæt citronsaft og grenadine. Top til sidst op med tonic. Pynt med citronskiver.",
+  "g": "billeder/gin-daisy.jpg"
+ },
+ {
+  "n": "Gin Fizz",
+  "c": "Gin",
+  "i": [
+   "4 cl gin",
+   "1,5 cl BARMIX Sugar Cane Sirup",
+   "3 cl frisk citronsaft",
+   "1 cl æggehvide",
+   "Danskvand"
+  ],
+  "m": "Hæld alle ingredienser undtagen danskvand i en shaker med isterninger. Shake og hæld i et glas. Top op med danskvand.",
+  "g": "billeder/gin-fizz.jpg"
+ },
+ {
+  "n": "Gin Hass",
+  "c": "Gin",
+  "i": [
+   "4 cl Harlegin Premium Gin",
+   "2 cl BARMIX Mango Sirup",
+   "½ frisk lime",
+   "Lemon sodavand"
+  ],
+  "m": "Hæld gin, mangosirup og saften fra en halv lime i et glas og rør rundt. Tilføj isterninger og fyld op med lemon sodavand og pynt med lime.",
+  "g": "billeder/gin-hass.jpg"
+ },
+ {
+  "n": "Negroni",
+  "c": "Gin",
+  "i": [
+   "4 cl Harlegin Premium gin",
+   "4 cl Campari",
+   "4 cl rød Vermouth",
+   "Appelsinskal"
+  ],
+  "m": "Rør ingredienserne med is. Pres til sidst en appelsinskal i drinken.",
+  "g": "billeder/negroni.jpg"
+ },
+ {
+  "n": "Rhubarb Gin Fizz",
+  "c": "Gin",
+  "i": [
+   "4 cl gin",
+   "3 cl BARMIX Rhubarb Sirup",
+   "Saft fra 1 lime",
+   "Danskvand"
+  ],
+  "m": "Hæld gin, rabarbersirup og limesaft over is i en shaker og shake godt. Fyld et glas med is og si blandingen over i det. Er drinken for stærk, tilsæt lidt danskvand.",
+  "g": "billeder/rhubarb-gin-fizz.jpg"
+ },
+ {
+  "n": "Rhubarb Gin Hass",
+  "c": "Gin",
+  "i": [
+   "4 cl gin",
+   "2 cl BARMIX Rhubarb Sirup",
+   "Saft fra ½ lime",
+   "Lemon soda"
+  ],
+  "m": "Hæld gin, rabarbersirup og saften fra en halv lime i et glas og rør. Tilsæt isterninger og top op med lemon soda.",
+  "g": "billeder/rhubarb-gin-hass.jpg"
+ },
+ {
+  "n": "Rhubie Gin Fizz",
+  "c": "Gin",
+  "i": [
+   "4 cl Harlegin Rhubarb gin",
+   "2 cl citronsaft",
+   "1 æggehvide",
+   "2 cl BARMIX Sugar Cane Sirup",
+   "Danskvand"
+  ],
+  "m": "Shake gin, citronsaft, æggehvide og Sugar Cane Sirup med is i cirka 15 sekunder. Si blandingen over i et glas med is. Tilsæt danskvand.",
+  "g": "billeder/rhubie-gin-fizz.jpg"
+ },
+ {
+  "n": "Strawberry Gin Hass",
+  "c": "Gin",
+  "i": [
+   "4 cl gin",
+   "2 cl BARMIX Strawberry Sirup",
+   "Saft fra ½ lime",
+   "Lemon soda"
+  ],
+  "m": "Hæld gin, jordbærsirup og limesaft i et glas. Tilsæt isterninger og top op med lemon soda.",
+  "g": "billeder/strawberry-gin-hass.jpg"
+ },
+ {
+  "n": "Sweet Kiss",
+  "c": "Gin",
+  "i": [
+   "4 cl gin",
+   "2 cl BARMIX Strawberry Sirup",
+   "Tonic",
+   "Mynte, citron eller jordbær"
+  ],
+  "m": "Hæld gin og jordbærsirup over is og top op med tonic. Pynt med mynte, citrusfrugt og friske jordbær.",
+  "g": "billeder/sweet-kiss.jpg"
+ },
+ {
+  "n": "Black Sunset",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Kurant",
+   "Cola"
+  ],
+  "m": "Hæld CUBA Kurant over is og top op med cola.",
+  "g": "billeder/black-sunset.jpg"
+ },
+ {
+  "n": "Blue Lagoon",
+  "c": "Vodka",
+  "i": [
+   "4 cl vodka",
+   "2 cl BARMIX Blue Curaçao Sirup",
+   "Lemon soda"
+  ],
+  "m": "Bland vodka og curaçao med isterninger og top op med lemon soda. Pynt med citron.",
+  "g": "billeder/blue-lagoon.jpg"
+ },
+ {
+  "n": "Calippo",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Pineapple",
+   "2 cl CUBA Caramel",
+   "Sprite",
+   "Isterninger"
+  ],
+  "m": "CUBA Caramel og CUBA Pineapple hældes over isterninger i et long drink glas. Tilsæt Sprite og pynt med eksotisk frugt.",
+  "g": "billeder/calippo.jpg"
+ },
+ {
+  "n": "Caribbean Breeze",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Caramel",
+   "1 cl BARMIX Lime Sirup",
+   "Sprite"
+  ],
+  "m": "Hæld CUBA Caramel over is i et glas. Tilsæt limesirup og fyld op med Sprite.",
+  "g": "billeder/caribbean-breeze.jpg"
+ },
+ {
+  "n": "Isbjørn",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Orange",
+   "Sprite"
+  ],
+  "m": "Hæld CUBA Orange i et glas med is. Fyld op med Sprite.",
+  "g": "billeder/isbjoern.jpg"
+ },
+ {
+  "n": "Mango Fizz",
+  "c": "Vodka",
+  "i": [
+   "2 cl vodka",
+   "2 cl BARMIX Mango Sirup",
+   "2 cl BARMIX Lime Sirup",
+   "Tonic"
+  ],
+  "m": "Fyld et glas med is. Tilsæt vodka og begge sirupper. Top til sidst op med tonic.",
+  "g": "billeder/mango-fizz.jpg"
+ },
+ {
+  "n": "Mango Hazz",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Mango",
+   "1 cl friskpresset lime",
+   "Lemon sodavand"
+  ],
+  "m": "Hæld CUBA Mango og limesaft over is og top op med lemon sodavand.",
+  "g": "billeder/mango-hazz.jpg"
+ },
+ {
+  "n": "Moscow Mule",
+  "c": "Vodka",
+  "i": [
+   "2 cl vodka",
+   "2 cl BARMIX Lime Sirup",
+   "Ginger beer",
+   "2 limebåde"
+  ],
+  "m": "Fyld et glas eller en kobberkrus med is og tilsæt vodka, limesirup og ginger beer. Rør og pynt med limebåde.",
+  "g": "billeder/moscow-mule.jpg"
+ },
+ {
+  "n": "Pagnebrus",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Caramel",
+   "1 cl friskpresset limesaft",
+   "Grøn sodavand"
+  ],
+  "m": "Fyld et glas halvt op med is. Hæld CUBA Caramel og limesaft over og fyld op med grøn sodavand. Friskpresset lime kan erstattes med BARMIX Lime Sirup.",
+  "g": "billeder/pagnebrus.jpg"
+ },
+ {
+  "n": "Passion Sunrise",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Passion",
+   "6 cl rød sodavand",
+   "Appelsinjuice"
+  ],
+  "m": "Hæld CUBA Passion og appelsinjuice over is og top op med rød sodavand.",
+  "g": "billeder/passion-sunrise.jpg"
+ },
+ {
+  "n": "Pink Haze",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Kurant",
+   "4 cl SMÅ SPORT",
+   "1 cl æggehvide",
+   "2 cl Master of Mixes Lime Juice",
+   "Rød sodavand"
+  ],
+  "m": "Shake CUBA Kurant, SMÅ SPORT, æggehvide og Lime Juice (eller frisk limesaft). Hæld over isterninger og top med rød sodavand.",
+  "g": "billeder/pink-haze.jpg"
+ },
+ {
+  "n": "Pink Velvet",
+  "c": "Vodka",
+  "i": [
+   "4 cl vodka",
+   "2 cl BARMIX Strawberry Sirup",
+   "Saft fra ½ citron",
+   "Lemon soda"
+  ],
+  "m": "Hæld vodka, jordbærsirup og citronsaft over isterninger. Juster efter smag med lemon soda.",
+  "g": "billeder/pink-velvet.jpg"
+ },
+ {
+  "n": "Polar Bear",
+  "c": "Vodka",
+  "i": [
+   "4 cl vodka",
+   "2 cl BARMIX Blue Curaçao Sirup",
+   "Sprite"
+  ],
+  "m": "Bland vodka og curaçao med isterninger og top op med Sprite.",
+  "g": "billeder/polar-bear.jpg"
+ },
+ {
+  "n": "Pornstar",
+  "c": "Vodka",
+  "i": [
+   "4 cl CUBA Pure Vodka",
+   "2 cl BARMIX Passion Sirup",
+   "1 cl citronsaft",
+   "1 tsk vaniljesukker",
+   "Prosecco",
+   "½ passionsfrugt"
+  ],
+  "m": "Hæld vodka, sirup, citronsaft og vaniljesukker i en shaker med is og ryst godt. Hæld i et glas og top op med prosecco. Pynt med en halv passionsfrugt.",
+  "g": "billeder/pornstar.jpg"
+ },
+ {
+  "n": "Pornstar Martini",
+  "c": "Vodka",
+  "i": [
+   "4 cl CUBA Pure Vodka",
+   "2 cl BARMIX Passion Sirup",
+   "1 cl citronsaft",
+   "1 tsk vaniljesukker",
+   "Prosecco",
+   "½ passionsfrugt"
+  ],
+  "m": "Hæld vodka, sirup, citronsaft og vaniljesukker i en shaker med is og shake godt. Si i et glas og top op med prosecco. Pynt med en halv passionsfrugt.",
+  "g": "billeder/pornstar-martini.jpg"
+ },
+ {
+  "n": "Purple Rain",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Kurant",
+   "Sprite",
+   "Knust is"
+  ],
+  "m": "CUBA Kurant og Sprite hældes over knust is. Pynt fx med friske bær og en skive citron eller lime.",
+  "g": "billeder/purple-rain.jpg"
+ },
+ {
+  "n": "Solbærstang",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Kurant",
+   "1 cl BARMIX Sugar Cane Sirup",
+   "6 cl kakaomælk",
+   "Flødeskum",
+   "Isterninger"
+  ],
+  "m": "Fyld et glas op med isterninger. Hæld CUBA Kurant, BARMIX Sugar Cane Sirup og kakaomælk over. Top med flødeskum.",
+  "g": "billeder/solbaerstang.jpg"
+ },
+ {
+  "n": "Solero",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Strawberry",
+   "6 cl appelsinjuice",
+   "4 cl Sprite",
+   "2 tsk. flødeskum"
+  ],
+  "m": "Hæld CUBA Strawberry, appelsinjuice og flødeskum i en shaker med knust is. Shake og hæld over i et glas. Fyld op med Sprite, og drinken bliver skummende.",
+  "g": "billeder/solero.jpg"
+ },
+ {
+  "n": "Sunset Passion",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Pineapple",
+   "2 cl BARMIX Passion Sirup",
+   "Passionsfrugtjuice"
+  ],
+  "m": "Hæld CUBA Pineapple over isterninger i et højt glas. Tilsæt BARMIX Passion Sirup og top op med passionsfrugtjuice.",
+  "g": "billeder/sunset-passion.jpg"
+ },
+ {
+  "n": "Vodka Bramble",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Dry Lemon",
+   "2 cl brombærsirup",
+   "Danskvand"
+  ],
+  "m": "Hæld CUBA Dry Lemon og brombærsirup over knust is og top op med danskvand.",
+  "g": "billeder/vodka-bramble.jpg"
+ },
+ {
+  "n": "Zumba",
+  "c": "Vodka",
+  "i": [
+   "2 cl CUBA Orange",
+   "2 cl CUBA Pineapple",
+   "Lemon sodavand"
+  ],
+  "m": "Hæld CUBA Orange og CUBA Pineapple over is og top op med lemon sodavand.",
+  "g": "billeder/zumba.jpg"
+ },
+ {
+  "n": "Caribbean Sunrise",
+  "c": "Rom",
+  "i": [
+   "4 cl rom",
+   "2 cl BARMIX Blue Curaçao Sirup",
+   "2 cl BARMIX Grenadine Sirup",
+   "Appelsinjuice"
+  ],
+  "m": "Bland rom og grenadine separat. Hæld blandingen over is, tilsæt appelsinjuice og hæld til sidst curaçao i, så den lægger sig øverst.",
+  "g": "billeder/caribbean-sunrise.jpg"
+ },
+ {
+  "n": "Daiquiri",
+  "c": "Rom",
+  "d": "Enkel og syrlig, med rom og lime",
+  "i": [
+   "6 cl hvid rom",
+   "2 cl limesaft",
+   "1,5 cl sukkersirup"
+  ],
+  "g": "billeder/daiquiri.jpg"
+ },
+ {
+  "n": "Mango Colada",
+  "c": "Rom",
+  "i": [
+   "4 cl hvid rom",
+   "2 cl BARMIX Mango Sirup",
+   "4 cl kokosfløde",
+   "Ananasjuice",
+   "Isterninger"
+  ],
+  "m": "Bland alle ingredienser, indtil isterningerne er knust, og drinken er cremet. Server iskold i et højt glas. Pynt med frisk ananas.",
+  "g": "billeder/mango-colada.jpg"
+ },
+ {
+  "n": "Mojito",
+  "c": "Rom",
+  "i": [
+   "4 cl rom",
+   "10 cl Master of Mixes Mojito Mixer",
+   "Danskvand",
+   "Frisk lime og mynte"
+  ],
+  "m": "Fyld et glas med is og tilsæt dernæst 4 cl rom og 10 cl Mojito Mixer. Rør rundt og top op med danskvand. Pynt med frisk lime og mynte.",
+  "g": "billeder/mojito.jpg"
+ },
+ {
+  "n": "Passion Daiquiri",
+  "c": "Rom",
+  "i": [
+   "5 cl hvid rom",
+   "3 cl BARMIX Passion Sirup",
+   "2 cl frisk limesaft"
+  ],
+  "m": "Shake alle ingredienser med is og si i et afkølet coupe- eller martiniglas. Pynt med lime eller passionsfrugt.",
+  "g": "billeder/passion-daiquiri.jpg"
+ },
+ {
+  "n": "Passion Mojito",
+  "c": "Rom",
+  "i": [
+   "4 cl rom",
+   "3 cl BARMIX Passion Sirup",
+   "1 cl BARMIX Sugar Cane Sirup",
+   "Danskvand",
+   "Mynteblade",
+   "Frisk limesaft"
+  ],
+  "m": "Riv mynteblade i mindre stykker og tilsæt alle ingredienser i glasset. Top op med danskvand.",
+  "g": "billeder/passion-mojito.jpg"
+ },
+ {
+  "n": "Piña Colada",
+  "c": "Rom",
+  "i": [
+   "4 cl rom",
+   "10 cl Master of Mixes Piña Colada Mixer",
+   "Isterninger",
+   "Frisk ananas"
+  ],
+  "m": "Fyld rom, Piña Colada Mixer og isterninger i en shaker eller et glas. Shake godt, og din drink er klar til servering. Pynt med skiver af frisk ananas eller en lille paraply.",
+  "g": "billeder/pina-colada.jpg"
+ },
+ {
+  "n": "Rhubarb Daiquiri",
+  "c": "Rom",
+  "i": [
+   "4 cl rom",
+   "4 cl BARMIX Rhubarb Sirup",
+   "2 cl BARMIX Lime Sirup",
+   "4 frosne jordbær"
+  ],
+  "m": "Bland rom, rabarbersirup, limesirup, jordbær og en håndfuld isterninger i en blender til ønsket konsistens. Server i et fancy cocktailglas.",
+  "g": "billeder/rhubarb-daiquiri.jpg"
+ },
+ {
+  "n": "Rhubarb Mojito",
+  "c": "Rom",
+  "i": [
+   "4 cl hvid rom",
+   "4 cl BARMIX Rhubarb Sirup",
+   "1 cl frisk limesaft",
+   "Danskvand",
+   "Mynteblade"
+  ],
+  "m": "Læg mynteblade øverst på isterninger i et glas. Tilsæt rabarbersirup, limesaft og rom. Fyld til sidst op med danskvand.",
+  "g": "billeder/rhubarb-mojito.jpg"
+ },
+ {
+  "n": "Strawberry Daiquiri",
+  "c": "Rom",
+  "i": [
+   "4 cl rom",
+   "10 cl Master of Mixes Strawberry Mixer"
+  ],
+  "m": "Hæld ingredienserne i en shaker med is og shake godt. Si i et nyt glas, gerne pyntet med salt.",
+  "g": "billeder/strawberry-daiquiri.jpg"
+ },
+ {
+  "n": "Strawberry Mojito",
+  "c": "Rom",
+  "i": [
+   "4 cl rom",
+   "2 cl BARMIX Strawberry Sirup",
+   "3 cl BARMIX Lime Sirup",
+   "1 cl BARMIX Sugar Cane Sirup",
+   "Danskvand",
+   "Mynteblade",
+   "Jordbær"
+  ],
+  "m": "Riv mynteblade i mindre stykker og hæld alle ingredienser i glasset. Rør, tilsæt isterninger og top op med danskvand.",
+  "g": "billeder/strawberry-mojito.jpg"
+ },
+ {
+  "n": "Vampire's Dream",
+  "c": "Rom",
+  "i": [
+   "4 cl rom",
+   "8 cl tranebærjuice",
+   "8 cl ananasjuice",
+   "2 cl BARMIX Grenadine Sirup"
+  ],
+  "m": "Hæld rom, juice og grenadine over is og rør. Pynt med frisk ananas.",
+  "g": "billeder/vampire-s-dream.jpg"
+ },
+ {
+  "n": "Mamacita Margarita",
+  "c": "Tequila",
+  "i": [
+   "3 cl tequila",
+   "2 cl BARMIX Mango Sirup",
+   "Appelsinjuice"
+  ],
+  "m": "Tequila, mangosirup og appelsinjuice rystes med is og hældes i et smukt glas, gerne pyntet med mango eller bær.",
+  "g": "billeder/mamacita-margarita.jpg"
+ },
+ {
+  "n": "Margarita",
+  "c": "Tequila",
+  "i": [
+   "4 cl tequila",
+   "2 cl Cointreau",
+   "1 cl BARMIX Sugar Cane Sirup",
+   "Saft fra ½ lime"
+  ],
+  "m": "Hæld alt i en shaker med is og shake. Si i et afkølet glas. Fugt evt. glasranden med lime og dyp den i salt.",
+  "g": "billeder/margarita.jpg"
+ },
+ {
+  "n": "Pink Margarita",
+  "c": "Tequila",
+  "i": [
+   "4 cl tequila",
+   "2 cl Cointreau",
+   "1 cl BARMIX Grenadine Sirup",
+   "Saft fra ½ lime"
+  ],
+  "m": "Hæld grenadine i et glas. Tilsæt tequila og Cointreau. Pres saften fra en halv lime i glasset og fyld op med is.",
+  "g": "billeder/pink-margarita.jpg"
+ },
+ {
+  "n": "Tequila Sunrise",
+  "c": "Tequila",
+  "i": [
+   "4 cl tequila",
+   "2 cl BARMIX Grenadine Sirup",
+   "Appelsinjuice"
+  ],
+  "m": "Hæld tequila og appelsinjuice i et glas med is og rør til drinken er iskold. Hæld forsigtigt grenadine langs glassets kant.",
+  "g": "billeder/tequila-sunrise.jpg"
+ },
+ {
+  "n": "After 8",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Peppermint",
+   "Kakaomælk"
+  ],
+  "m": "Hæld Råstoff Peppermint over is og top op med kakaomælk.",
+  "g": "billeder/after-8.jpg"
+ },
+ {
+  "n": "Amaretto Sour",
+  "c": "Likør",
+  "i": [
+   "6 cl Råstoff Amaretto",
+   "4 cl citronsaft",
+   "1 cl æggehvide"
+  ],
+  "m": "Shake alle ingredienser kraftigt med is og si over i et glas med isterninger.",
+  "g": "billeder/amaretto-sour.jpg"
+ },
+ {
+  "n": "Apple Rhubarb",
+  "c": "Likør",
+  "i": [
+   "6 cl Pure Æble",
+   "1 cl citronsaft",
+   "Isterninger",
+   "Rabarbersodavand",
+   "Citron"
+  ],
+  "m": "Hæld Pure Æble og citronsaft over isterninger, top op med rabarbersodavand og pynt med citron.",
+  "g": "billeder/apple-rhubarb.jpg"
+ },
+ {
+  "n": "Appletini",
+  "c": "Likør",
+  "i": [
+   "6 cl Råstoff Apple-Vanilla",
+   "2 cl BARMIX Sugar Cane Sirup",
+   "2 cl citronsaft"
+  ],
+  "m": "Shake med is og si over i et martiniglas.",
+  "g": "billeder/appletini.jpg"
+ },
+ {
+  "n": "Arctic Freeze",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Peppermint",
+   "2 cl limesirup eller frisk lime",
+   "Sprite"
+  ],
+  "m": "Hæld Råstoff Peppermint og limesirup over is og top op med Sprite.",
+  "g": "billeder/arctic-freeze.jpg"
+ },
+ {
+  "n": "Astronaut",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Strawberry-Rhubarb",
+   "Lemon sodavand",
+   "Friskpresset lime"
+  ],
+  "m": "Råstoff Strawberry-Rhubarb hældes i et glas over is. Pres en kvart lime ned i og fyld op med lemon sodavand. Du kan erstatte friskpresset lime med BARMIX Lime Sirup.",
+  "g": "billeder/astronaut.jpg"
+ },
+ {
+  "n": "Citronmåne",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Amaretto",
+   "Lemon sodavand",
+   "Friskpresset citron"
+  ],
+  "m": "Hæld Råstoff Amaretto over is, pres citron i og top op med lemon sodavand.",
+  "g": "billeder/citronmaane.jpg"
+ },
+ {
+  "n": "Dark Raspberry Kiss",
+  "c": "Likør",
+  "i": [
+   "4 cl Pure Shots Lakrids",
+   "2 cl BARMIX Lime Sirup",
+   "Rød sodavand"
+  ],
+  "m": "Hæld Pure Shots Lakrids og limesirup over is og top op med rød sodavand.",
+  "g": "billeder/dark-raspberry-kiss.jpg"
+ },
+ {
+  "n": "Evigglad",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Strawberry-Rhubarb",
+   "Æblejuice"
+  ],
+  "m": "Hæld Råstoff Strawberry-Rhubarb over is og top op med æblejuice.",
+  "g": "billeder/evigglad.jpg"
+ },
+ {
+  "n": "Filur",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Strawberry-Rhubarb",
+   "Appelsin sodavand",
+   "Friskpresset lime"
+  ],
+  "m": "Hæld Råstoff Strawberry-Rhubarb over is, pres lime i og top op med appelsin sodavand.",
+  "g": "billeder/filur.jpg"
+ },
+ {
+  "n": "Hindbærtærte",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Amaretto",
+   "Hindbærbrus"
+  ],
+  "m": "Hæld Råstoff Amaretto i et glas med is og top op med hindbærbrus.",
+  "g": "billeder/hindbaertaerte.jpg"
+ },
+ {
+  "n": "Hvid Læske",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Salty Caramel",
+   "1 cl limesaft",
+   "Sprite"
+  ],
+  "m": "Hæld Råstoff Salty Caramel og limesaft over is og top op med Sprite. Lime kan erstattes med BARMIX Lime Sirup.",
+  "g": "billeder/hvid-laeske.jpg"
+ },
+ {
+  "n": "Koldskål",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Salty Caramel",
+   "2 cl BARMIX Lime Sirup",
+   "Lemon sodavand",
+   "Friske limeskiver"
+  ],
+  "m": "Hæld Råstoff Salty Caramel og limesirup over is, top op med lemon sodavand og pynt med limeskiver.",
+  "g": "billeder/koldskaal.jpg"
+ },
+ {
+  "n": "Kung Fu",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Pure Liquorice",
+   "1 cl BARMIX Lime Sirup",
+   "Sprite"
+  ],
+  "m": "Hæld Råstoff Pure Liquorice og limesirup over is og top op med Sprite.",
+  "g": "billeder/kung-fu.jpg"
+ },
+ {
+  "n": "Københavner",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Pineapple-Vanilla",
+   "Faxe Kondi eller Sprite",
+   "Flügel-shot"
+  ],
+  "m": "Hæld Råstoff Pineapple-Vanilla over is. Fyld op med Faxe Kondi eller Sprite og tilsæt et Flügel-shot.",
+  "g": "billeder/koebenhavner.jpg"
+ },
+ {
+  "n": "Københavnerstang",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Pineapple-Vanilla",
+   "Sprite eller Faxe Kondi",
+   "Evt. flødeskum"
+  ],
+  "m": "Hæld Råstoff Pineapple-Vanilla over is og fyld op med Sprite eller Faxe Kondi. Top evt. med flødeskum.",
+  "g": "billeder/koebenhavnerstang.jpg"
+ },
+ {
+  "n": "Lakridspibe",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Pure Liquorice",
+   "1 cl BARMIX Lime Sirup",
+   "Hindbærbrus"
+  ],
+  "m": "Hæld Råstoff Pure Liquorice og limesirup over is og top op med hindbærbrus.",
+  "g": "billeder/lakridspibe.jpg"
+ },
+ {
+  "n": "Pineapple Rush",
+  "c": "Likør",
+  "i": [
+   "2 cl Råstoff Pineapple-Vanilla",
+   "Energidrik"
+  ],
+  "m": "Hæld Råstoff Pineapple-Vanilla over is og top op med energidrik.",
+  "g": "billeder/pineapple-rush.jpg"
+ },
+ {
+  "n": "Pink Breeze",
+  "c": "Likør",
+  "i": [
+   "4 cl Pure Pink Grape",
+   "Sprite",
+   "Isterninger",
+   "Limeskiver"
+  ],
+  "m": "Hæld Pure Pink Grape over isterninger, top op med Sprite og pynt med limeskiver.",
+  "g": "billeder/pink-breeze.jpg"
+ },
+ {
+  "n": "Pure Love",
+  "c": "Likør",
+  "i": [
+   "4 cl Pure Pink Grape",
+   "Lemon sodavand"
+  ],
+  "m": "Hæld Pure Pink Grape og lemon sodavand over isterninger.",
+  "g": "billeder/pure-love.jpg"
+ },
+ {
+  "n": "Rhubarb Margarita",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Strawberry-Rhubarb",
+   "10 cl Master of Mixes Margarita Mixer"
+  ],
+  "m": "Hæld ingredienserne i en shaker med is og shake godt. Si i et nyt glas, gerne pyntet med salt.",
+  "g": "billeder/rhubarb-margarita.jpg"
+ },
+ {
+  "n": "Rhubarbie",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Strawberry-Rhubarb",
+   "1 cl limesaft",
+   "Rabarber sodavand"
+  ],
+  "m": "Hæld Råstoff Strawberry-Rhubarb og limesaft over is og top op med rabarber sodavand.",
+  "g": "billeder/rhubarbie.jpg"
+ },
+ {
+  "n": "Sommerdrøm",
+  "c": "Likør",
+  "i": [
+   "4 cl Råstoff Apple-Vanilla",
+   "1 cl citronsaft",
+   "Rabarber sodavand"
+  ],
+  "m": "Hæld Råstoff Apple-Vanilla og citronsaft over is og top op med rabarber sodavand.",
+  "g": "billeder/sommerdroem.jpg"
+ },
+ {
+  "n": "Summer Twist",
+  "c": "Likør",
+  "i": [
+   "2 cl Råstoff Pineapple-Vanilla",
+   "2 cl Råstoff Strawberry-Rhubarb",
+   "2 cl koncentreret hyldeblomstsaft",
+   "Sprite"
+  ],
+  "m": "Hæld Råstoff og hyldeblomstsaft over is og top op med Sprite.",
+  "g": "billeder/summer-twist.jpg"
+ },
+ {
+  "n": "Tivoli Twist",
+  "c": "Likør",
+  "i": [
+   "2 cl Råstoff Pineapple-Vanilla",
+   "2 cl Råstoff Strawberry-Rhubarb",
+   "2 cl koncentreret hyldeblomstsaft",
+   "Sprite"
+  ],
+  "m": "Hæld Råstoff, hyldeblomstsaft og is i et glas og top op med Sprite.",
+  "g": "billeder/tivoli-twist.jpg"
+ },
+ {
+  "n": "Vampire",
+  "c": "Likør",
+  "i": [
+   "2 cl Råstoff Pure Liquorice",
+   "2 cl Råstoff Strawberry-Rhubarb",
+   "Appelsin sodavand"
+  ],
+  "m": "Hæld Råstoff over is og top op med appelsin sodavand.",
+  "g": "billeder/vampire.jpg"
+ },
+ {
+  "n": "Bubble Bomb",
+  "c": "Små Shots",
+  "d": "Pink og sød med energidrik og lime",
+  "i": [
+   "4 cl SMÅ SURE Sour Bubble Fizz",
+   "Energidrik",
+   "Frisk lime"
+  ],
+  "m": "Fyld et glas med is. Hæld Små Sure i, fyld op med energidrik og pres lidt frisk lime i. Rør forsigtigt.",
+  "g": "billeder/bubble-bomb.jpg"
+ },
+ {
+  "n": "Crazy Bird",
+  "c": "Små Shots",
+  "d": "Knaldblå og let med sprite og citron",
+  "i": [
+   "4 cl SMÅ FUGLE",
+   "Sprite",
+   "Evt. et par skiver frisk citron"
+  ],
+  "m": "Fyld et glas med is. Hæld Små Fugle i og fyld op med Sprite. Tilføj evt. et par skiver frisk citron.",
+  "g": "billeder/crazy-bird.jpg"
+ },
+ {
+  "n": "Jack Frost",
+  "c": "Små Shots",
+  "d": "Blåbær og ananas, grøn-blå i glasset",
+  "i": [
+   "4 cl SMÅ SURE Sour Blueberry",
+   "4 cl ananasjuice",
+   "4 cl lemon sodavand",
+   "Evt. friske blåbær"
+  ],
+  "m": "Fyld et glas med is. Hæld Små Sure og ananasjuice i, fyld op med lemon sodavand og rør. Drys evt. friske blåbær ovenpå.",
+  "g": "billeder/jack-frost.jpg"
+ },
+ {
+  "n": "Kondi Crush",
+  "c": "Små Shots",
+  "d": "Klar og frisk med Faxe Kondi og lime",
+  "i": [
+   "4 cl SMÅ SPORT",
+   "Faxe Kondi",
+   "Frisk lime"
+  ],
+  "m": "Fyld et glas med is og limeskiver. Hæld Små Sport i og fyld op med Faxe Kondi.",
+  "g": "billeder/kondi-crush.jpg"
+ },
+ {
+  "n": "Mango Sour",
+  "c": "Små Shots",
+  "d": "Frisk og frugtig med mango og citron",
+  "i": [
+   "4 cl SMÅ SURE Sour Juicy Mango",
+   "Lemon sodavand",
+   "Frisk citron eller lime"
+  ],
+  "m": "Fyld et glas med is. Hæld Små Sure i og fyld op med lemon sodavand. Pynt med en skive frisk citron eller lime.",
+  "g": "billeder/mango-sour.jpg"
+ },
+ {
+  "n": "Raspberry Mojito",
+  "c": "Små Shots",
+  "i": [
+   "Mynteblade",
+   "Rørsukker",
+   "Lime",
+   "6 cl SMÅ SURE Sour Raspberry",
+   "Danskvand"
+  ],
+  "m": "Muddl mynteblade, rørsukker og lime i et glas. Tilsæt derefter isterninger og SMÅ SURE Sour Raspberry. Top op med danskvand.",
+  "g": "billeder/raspberry-mojito.jpg"
+ },
+ {
+  "n": "Slush Ice",
+  "c": "Små Shots",
+  "i": [
+   "2-3 håndfulde isterninger",
+   "6-8 cl SMÅ SHOTS (din favorit)",
+   "Frugt, sukkerrør eller mynteblade"
+  ],
+  "m": "Blend 2-3 håndfulde isterninger til en fin slush i en kraftig blender. Tilsæt 6-8 cl af din favorit SMÅ SHOTS og pynt med frugt, sukkerrør eller mynteblade.",
+  "g": "billeder/slush-ice.jpg"
+ },
+ {
+  "n": "Sommer Sorbet",
+  "c": "Små Shots",
+  "d": "Lyst og syrligt som citronsorbet",
+  "i": [
+   "4 cl SMÅ SURE Lemon Sorbet",
+   "Sprite",
+   "Frisk citron"
+  ],
+  "m": "Fyld et glas med is. Hæld Små Sure i, fyld op med Sprite og pynt med en skive frisk citron.",
+  "g": "billeder/sommer-sorbet.jpg"
+ },
+ {
+  "n": "Sour Kick",
+  "c": "Små Shots",
+  "d": "Hindbær, sprite og lime",
+  "i": [
+   "4 cl SMÅ SURE Sour Raspberry",
+   "Sprite",
+   "Frisk lime"
+  ],
+  "m": "Fyld et glas med is og limeskiver. Hæld Små Sure i og fyld op med Sprite.",
+  "g": "billeder/sour-kick.jpg"
+ },
+ {
+  "n": "Sweet Bats",
+  "c": "Små Shots",
+  "d": "Rød og sød med jordbær",
+  "i": [
+   "4 cl SMÅ BATS",
+   "1 cl BARMIX Strawberry Sirup",
+   "Faxe Kondi"
+  ],
+  "m": "Fyld et glas med is. Hæld Små Bats og jordbærsirup i, fyld op med Faxe Kondi og rør rundt.",
+  "g": "billeder/sweet-bats.jpg"
+ },
+ {
+  "n": "Affogato Caramel Coffee",
+  "c": "Kaffe & dessert",
+  "i": [
+   "2 cl Råstoff Salty Caramel",
+   "4 cl varm espresso",
+   "2 scoop vaniljeis"
+  ],
+  "m": "Læg vaniljeis i et glas og hæld Råstoff Salty Caramel og varm espresso over.",
+  "g": "billeder/affogato-caramel-coffee.jpg"
+ },
+ {
+  "n": "Choco Dream",
+  "c": "Kaffe & dessert",
+  "i": [
+   "2 cl CUBA Caramel, Råstoff Salty Caramel eller Pure Shots La",
+   "Varm kakaomælk",
+   "Flødeskum eller skumfiduser"
+  ],
+  "m": "Hæld spiritussen i en kop eller et glas. Fyld op med varm kakaomælk og top med flødeskum eller skumfiduser. Vælg mellem Caramel (CUBA Caramel), Salty (Råstoff Salty Caramel) og Liquorice (Pure Shots Lakrids).",
+  "g": "billeder/choco-dream.jpg"
+ },
+ {
+  "n": "Espresso Martini",
+  "c": "Kaffe & dessert",
+  "i": [
+   "4 cl Råstoff Coffee Liqueur",
+   "4 cl vodka",
+   "4 cl espresso"
+  ],
+  "m": "Shake alle ingredienser med is og si over i et martiniglas.",
+  "g": "billeder/espresso-martini.jpg"
+ },
+ {
+  "n": "Liquorice Espresso Martini",
+  "c": "Kaffe & dessert",
+  "i": [
+   "2 cl Pure Shots Lakrids",
+   "1 espresso shot",
+   "3 cl vodka",
+   "2 cl Råstoff Coffee Liqueur",
+   "2 cl BARMIX Sugar Cane"
+  ],
+  "m": "Shake alle ingredienser med is og si over i et martiniglas.",
+  "g": "billeder/liquorice-espresso-martini.jpg"
+ },
+ {
+  "n": "Marsmand",
+  "c": "Kaffe & dessert",
+  "i": [
+   "4 cl Råstoff Salty Caramel",
+   "Varm kakaomælk",
+   "Flødeskum"
+  ],
+  "m": "Hæld Råstoff Salty Caramel i et glas og fyld op med varm kakaomælk. Top med flødeskum. Kan også laves med kold kakaomælk.",
+  "g": "billeder/marsmand.jpg"
+ },
+ {
+  "n": "Raw Iced Coffee",
+  "c": "Kaffe & dessert",
+  "i": [
+   "4 cl Råstoff Salty Caramel",
+   "4 cl espresso",
+   "4 cl mælk"
+  ],
+  "m": "Hæld alt over isterninger i et glas og rør rundt.",
+  "g": "billeder/raw-iced-coffee.jpg"
+ },
+ {
+  "n": "Rødgrød med fløde",
+  "c": "Kaffe & dessert",
+  "i": [
+   "2 cl Råstoff Strawberry-Rhubarb",
+   "Flødeskum"
+  ],
+  "m": "Hæld Råstoff Strawberry-Rhubarb i et shotglas og top med flødeskum.",
+  "g": "billeder/roedgroed-med-floede.jpg"
+ },
+ {
+  "n": "Salty Caramel Coffee",
+  "c": "Kaffe & dessert",
+  "i": [
+   "2 cl Råstoff Salty Caramel",
+   "4 cl varm kaffe",
+   "Flødeskum"
+  ],
+  "m": "Hæld Råstoff Salty Caramel og varm kaffe i et glas og top med flødeskum.",
+  "g": "billeder/salty-caramel-coffee.jpg"
+ },
+ {
+  "n": "Salty Caramel Espresso Martini",
+  "c": "Kaffe & dessert",
+  "i": [
+   "4 cl Råstoff Coffee Liqueur",
+   "4 cl Råstoff Salty Caramel",
+   "Varm espresso"
+  ],
+  "m": "Shake alle ingredienser med is og si over i et martiniglas.",
+  "g": "billeder/salty-caramel-espresso-martini.jpg"
+ },
+ {
+  "n": "Twix Caramel",
+  "c": "Kaffe & dessert",
+  "i": [
+   "2 cl CUBA Caramel",
+   "Mælk",
+   "6 cl stærk kaffe",
+   "2 spsk. mascarpone",
+   "2 tsk. karamelsauce",
+   "4 cl mælk"
+  ],
+  "m": "Top med creme piskeflødet af mascarpone, karamelsauce og mælk.",
+  "g": "billeder/twix-caramel.jpg"
+ },
+ {
+  "n": "White Russian",
+  "c": "Kaffe & dessert",
+  "i": [
+   "4 cl Råstoff Coffee Liqueur",
+   "4 cl vodka",
+   "4 cl fløde eller sødmælk"
+  ],
+  "m": "Hæld Coffee Liqueur og vodka over isterninger og top med fløde eller sødmælk.",
+  "g": "billeder/white-russian.jpg"
+ },
+ {
+  "n": "Æblekage",
+  "c": "Kaffe & dessert",
+  "i": [
+   "Pure Shots Æble",
+   "Flødeskum",
+   "Knuste makroner eller kanel"
+  ],
+  "m": "Pure Shots Æble serveres med flødeskum og knuste makroner eller en lille drys kanel.",
+  "g": "billeder/aeblekage.jpg"
+ },
+ {
+  "n": "Æblekageshot",
+  "c": "Kaffe & dessert",
+  "i": [
+   "2 cl Råstoff Apple-Vanilla",
+   "Flødeskum"
+  ],
+  "m": "Hæld Råstoff Apple-Vanilla i et shotglas og top med flødeskum.",
+  "g": "billeder/aeblekageshot.jpg"
+ },
+ {
+  "n": "Virgin Astronaut",
+  "c": "Alkoholfri",
+  "i": [
+   "2 cl BARMIX Rhubarb Sirup",
+   "2 cl BARMIX Strawberry Sirup",
+   "1 cl BARMIX Lime Sirup",
+   "Lemon soda"
+  ],
+  "m": "Hæld alle tre sirupper i et glas over is og top op med lemon soda. For mere friskhed, tilsæt lidt frisk limesaft.",
+  "g": "billeder/virgin-astronaut.jpg"
+ },
+ {
+  "n": "Virgin Mango Hass",
+  "c": "Alkoholfri",
+  "i": [
+   "2 cl BARMIX Mango Sirup",
+   "Saft fra ½ lime",
+   "Lemon soda"
+  ],
+  "m": "Hæld mangosirup og saften fra en halv lime i et glas og rør. Tilsæt isterninger og top op med lemon soda. Pynt med frisk mango.",
+  "g": "billeder/virgin-mango-hass.jpg"
+ },
+ {
+  "n": "Virgin Mojito",
+  "c": "Alkoholfri",
+  "i": [
+   "2 cl BARMIX Sugar Cane Sirup",
+   "2 cl BARMIX Lime Sirup",
+   "4-5 mynteblade",
+   "Limesaft",
+   "Ginger beer"
+  ],
+  "m": "Mort mynteblade i glasset. Tilsæt sirupper og isterninger. Top op med limesaft og ginger beer.",
+  "g": "billeder/virgin-mojito.jpg"
+ },
+ {
+  "n": "Virgin Polar Bear",
+  "c": "Alkoholfri",
+  "i": [
+   "2 cl BARMIX Curaçao Sirup",
+   "Saft fra ½ lime",
+   "Sprite"
+  ],
+  "m": "Hæld curaçao og frisk lime over isterninger og top op med Sprite.",
+  "g": "billeder/virgin-polar-bear.jpg"
+ },
+ {
+  "n": "Virgin Sunrise",
+  "c": "Alkoholfri",
+  "i": [
+   "2 cl BARMIX Grenadine Sirup",
+   "Appelsinjuice"
+  ],
+  "m": "Hæld appelsinjuice i et glas med is og rør til drinken er iskold. Tilsæt grenadine ved forsigtigt at hælde den langs glassets kant.",
+  "g": "billeder/virgin-sunrise.jpg"
+ },
+ {
+  "n": "Old Fashioned",
+  "c": "Whisky",
+  "d": "Klassikeren med whiskey og bitter",
+  "i": [
+   "6 cl bourbon",
+   "1 sukkerknald",
+   "2 stænk Angostura",
+   "Appelsinskræl"
+  ],
+  "g": "billeder/old-fashioned.jpg"
+ },
+ {
+  "n": "Dry Martini",
+  "c": "Gin",
+  "d": "Tør, kold og klar",
+  "i": [
+   "6 cl gin",
+   "1 cl tør vermouth",
+   "Oliven eller citronskal",
+   "Isterninger"
+  ],
+  "m": "Rør gin og vermouth med masser af is i 30 sekunder, og si op i et kølet martiniglas. Pynt med oliven eller citronskal.",
+  "g": "billeder/dry-martini.jpg"
+ },
+ {
+  "n": "Tom Collins",
+  "c": "Gin",
+  "d": "Lang og citronfrisk",
+  "i": [
+   "4,5 cl gin",
+   "3 cl citronsaft",
+   "1,5 cl sukkersirup",
+   "6 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Ryst gin, citron og sirup med is, si over i et højt glas med is og top med danskvand.",
+  "g": "billeder/tom-collins.jpg"
+ },
+ {
+  "n": "French 75",
+  "c": "Gin",
+  "d": "Bobler, citron og gin",
+  "i": [
+   "3 cl gin",
+   "1,5 cl citronsaft",
+   "1 cl sukkersirup",
+   "6 cl champagne eller prosecco",
+   "Isterninger"
+  ],
+  "m": "Ryst gin, citron og sirup med is, si op i et champagneglas og top med bobler.",
+  "g": "billeder/french-75.jpg"
+ },
+ {
+  "n": "Bee's Knees",
+  "c": "Gin",
+  "d": "Honning og citron",
+  "i": [
+   "5 cl gin",
+   "2 cl citronsaft",
+   "2 cl honningsirup",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas. Honningsirup er honning rørt op med lige så meget varmt vand.",
+  "g": "billeder/bee-s-knees.jpg"
+ },
+ {
+  "n": "Southside",
+  "c": "Gin",
+  "d": "Mynte og lime, som en mojito med gin",
+  "i": [
+   "5 cl gin",
+   "2,5 cl limesaft",
+   "1,5 cl sukkersirup",
+   "6-8 mynteblade",
+   "Isterninger"
+  ],
+  "m": "Ryst alt med is, og si op i et kølet glas. Pynt med et mynteblad.",
+  "g": "billeder/southside.jpg"
+ },
+ {
+  "n": "Aviation",
+  "c": "Gin",
+  "d": "Blomstret, lyslilla og syrlig",
+  "i": [
+   "4,5 cl gin",
+   "1,5 cl maraschino",
+   "0,75 cl crème de violette",
+   "1,5 cl citronsaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet coupeglas.",
+  "g": "billeder/aviation.jpg"
+ },
+ {
+  "n": "Last Word",
+  "c": "Gin",
+  "d": "Lige dele, urtet og syrlig",
+  "i": [
+   "2,25 cl gin",
+   "2,25 cl grøn Chartreuse",
+   "2,25 cl maraschino",
+   "2,25 cl limesaft",
+   "Isterninger"
+  ],
+  "m": "Ryst hårdt med is og si op i et kølet coupeglas.",
+  "g": "billeder/last-word.jpg"
+ },
+ {
+  "n": "Clover Club",
+  "c": "Gin",
+  "d": "Hindbær og silkeblødt skum",
+  "i": [
+   "4,5 cl gin",
+   "1,5 cl citronsaft",
+   "1,5 cl hindbærsirup",
+   "1 æggehvide",
+   "Isterninger"
+  ],
+  "m": "Ryst først uden is for at få skum, ryst så igen med is og si op i et coupeglas.",
+  "g": "billeder/clover-club.jpg"
+ },
+ {
+  "n": "White Lady",
+  "c": "Gin",
+  "d": "Citron og appelsinlikør",
+  "i": [
+   "4 cl gin",
+   "3 cl triple sec",
+   "2 cl citronsaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/white-lady.jpg"
+ },
+ {
+  "n": "Ramos Gin Fizz",
+  "c": "Gin",
+  "d": "Cremet og luftig med appelsinblomst",
+  "i": [
+   "4,5 cl gin",
+   "1,5 cl citronsaft",
+   "1,5 cl limesaft",
+   "3 cl sukkersirup",
+   "6 cl fløde",
+   "1 æggehvide",
+   "3 dråber appelsinblomstvand",
+   "3 cl danskvand"
+  ],
+  "m": "Ryst alt undtagen danskvand længe uden is, ryst igen med is, si op i et højt glas og top langsomt med danskvand.",
+  "g": "billeder/ramos-gin-fizz.jpg"
+ },
+ {
+  "n": "Bramble",
+  "c": "Gin",
+  "d": "Gin, citron og brombær over knust is",
+  "i": [
+   "4 cl gin",
+   "2 cl citronsaft",
+   "1 cl sukkersirup",
+   "1,5 cl brombærlikør",
+   "Knust is"
+  ],
+  "m": "Ryst gin, citron og sirup med is, si over knust is og dryp brombærlikøren ovenpå.",
+  "g": "billeder/bramble.jpg"
+ },
+ {
+  "n": "Corpse Reviver No. 2",
+  "c": "Gin",
+  "d": "Frisk, tør og en anelse anis",
+  "i": [
+   "2,25 cl gin",
+   "2,25 cl Lillet Blanc",
+   "2,25 cl triple sec",
+   "2,25 cl citronsaft",
+   "1 stænk absint",
+   "Isterninger"
+  ],
+  "m": "Skyl glasset med absint. Ryst resten med is og si op.",
+  "g": "billeder/corpse-reviver-no-2.jpg"
+ },
+ {
+  "n": "Martinez",
+  "c": "Gin",
+  "d": "Forløberen for martinien, sødere og rund",
+  "i": [
+   "4,5 cl gin",
+   "4,5 cl sød vermouth",
+   "0,5 cl maraschino",
+   "2 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op i et kølet glas. Pynt med citronskal.",
+  "g": "billeder/martinez.jpg"
+ },
+ {
+  "n": "Gibson",
+  "c": "Gin",
+  "d": "Dry martini med syltede perleløg",
+  "i": [
+   "6 cl gin",
+   "1 cl tør vermouth",
+   "Syltede perleløg",
+   "Isterninger"
+  ],
+  "m": "Rør med is, si op i et kølet glas og pynt med to perleløg.",
+  "g": "billeder/gibson.jpg"
+ },
+ {
+  "n": "Vesper",
+  "c": "Gin",
+  "d": "Bond-martinien med gin og vodka",
+  "i": [
+   "4,5 cl gin",
+   "1,5 cl vodka",
+   "0,75 cl Lillet Blanc",
+   "Isterninger"
+  ],
+  "m": "Ryst eller rør med is og si op. Pynt med en tynd citronskal.",
+  "g": "billeder/vesper.jpg"
+ },
+ {
+  "n": "Hanky Panky",
+  "c": "Gin",
+  "d": "Urtet og bittersød",
+  "i": [
+   "4,5 cl gin",
+   "4,5 cl sød vermouth",
+   "0,75 cl Fernet-Branca",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op i et kølet glas. Pynt med appelsinskal.",
+  "g": "billeder/hanky-panky.jpg"
+ },
+ {
+  "n": "Gin Basil Smash",
+  "c": "Gin",
+  "d": "Basilikum, citron og gin",
+  "i": [
+   "5 cl gin",
+   "2,5 cl citronsaft",
+   "1,5 cl sukkersirup",
+   "En god håndfuld basilikum",
+   "Isterninger"
+  ],
+  "m": "Mos basilikum i shakeren, tilføj resten og is, ryst hårdt og si over is to gange.",
+  "g": "billeder/gin-basil-smash.jpg"
+ },
+ {
+  "n": "Paloma med gin",
+  "c": "Gin",
+  "d": "Grape og gin i et højt glas",
+  "i": [
+   "4 cl gin",
+   "3 cl grapejuice",
+   "1 cl limesaft",
+   "8 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/paloma-med-gin.jpg"
+ },
+ {
+  "n": "Singapore Sling",
+  "c": "Gin",
+  "d": "Tropisk, lyserød og lang",
+  "i": [
+   "3 cl gin",
+   "1,5 cl kirsebærlikør",
+   "0,75 cl Cointreau",
+   "0,75 cl Bénédictine",
+   "12 cl ananasjuice",
+   "1,5 cl limesaft",
+   "1 cl grenadine",
+   "1 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Ryst alt med is og si op i et højt glas med is. Pynt med ananas og kirsebær.",
+  "g": "billeder/singapore-sling.jpg"
+ },
+ {
+  "n": "Pink Gin Tonic",
+  "c": "Gin",
+  "d": "Rosa, frugtig og let",
+  "i": [
+   "4 cl pink gin",
+   "12 cl tonic",
+   "Jordbær",
+   "Isterninger"
+  ],
+  "m": "Fyld et ballonglas med is, hæld gin over, top med tonic og pynt med skåret jordbær.",
+  "g": "billeder/pink-gin-tonic.jpg"
+ },
+ {
+  "n": "Elderflower Collins",
+  "c": "Gin",
+  "d": "Hyldeblomst og citron i et højt glas",
+  "i": [
+   "4 cl gin",
+   "2 cl koncentreret hyldeblomstsaft",
+   "2 cl citronsaft",
+   "8 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is, top med danskvand og rør.",
+  "g": "billeder/elderflower-collins.jpg"
+ },
+ {
+  "n": "Gin Rickey",
+  "c": "Gin",
+  "d": "Lime og danskvand, helt uden sødme",
+  "i": [
+   "5 cl gin",
+   "1,5 cl limesaft",
+   "10 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør. Pynt med lime.",
+  "g": "billeder/gin-rickey.jpg"
+ },
+ {
+  "n": "Gin Sour",
+  "c": "Gin",
+  "d": "Syrlig med skum",
+  "i": [
+   "5 cl gin",
+   "2,5 cl citronsaft",
+   "2 cl sukkersirup",
+   "1 æggehvide",
+   "Isterninger"
+  ],
+  "m": "Ryst først uden is, så med is, og si over i et glas med is.",
+  "g": "billeder/gin-sour.jpg"
+ },
+ {
+  "n": "Breakfast Martini",
+  "c": "Gin",
+  "d": "Gin med appelsinmarmelade",
+  "i": [
+   "5 cl gin",
+   "1,5 cl triple sec",
+   "1,5 cl citronsaft",
+   "1 tsk appelsinmarmelade",
+   "Isterninger"
+  ],
+  "m": "Rør marmeladen ud i ginen, ryst med resten og is, og si op.",
+  "g": "billeder/breakfast-martini.jpg"
+ },
+ {
+  "n": "Bijou",
+  "c": "Gin",
+  "d": "Juvelen: gin, vermouth og Chartreuse",
+  "i": [
+   "3 cl gin",
+   "3 cl sød vermouth",
+   "3 cl grøn Chartreuse",
+   "1 stænk orange bitter",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op i et kølet glas.",
+  "g": "billeder/bijou.jpg"
+ },
+ {
+  "n": "Monkey Gland",
+  "c": "Gin",
+  "d": "Appelsin, grenadine og et strejf absint",
+  "i": [
+   "4,5 cl gin",
+   "3 cl appelsinjuice",
+   "0,5 cl grenadine",
+   "1 stænk absint",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/monkey-gland.jpg"
+ },
+ {
+  "n": "Red Snapper",
+  "c": "Gin",
+  "d": "Bloody Mary med gin",
+  "i": [
+   "4,5 cl gin",
+   "9 cl tomatjuice",
+   "1,5 cl citronsaft",
+   "2 stænk Worcestershire sauce",
+   "2 stænk Tabasco",
+   "Salt og peber",
+   "Isterninger"
+  ],
+  "m": "Rør alt med is i et højt glas. Pynt med selleri.",
+  "g": "billeder/red-snapper.jpg"
+ },
+ {
+  "n": "Jasmine",
+  "c": "Gin",
+  "d": "Bittersød og lyserød",
+  "i": [
+   "4,5 cl gin",
+   "1,5 cl Campari",
+   "1,5 cl triple sec",
+   "2 cl citronsaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/jasmine.jpg"
+ },
+ {
+  "n": "Gin Mule",
+  "c": "Gin",
+  "d": "Gin, lime og ginger beer",
+  "i": [
+   "4,5 cl gin",
+   "1,5 cl limesaft",
+   "10 cl ginger beer",
+   "Isterninger"
+  ],
+  "m": "Byg i et krus med is og rør. Pynt med lime.",
+  "g": "billeder/gin-mule.jpg"
+ },
+ {
+  "n": "Agurk og gin",
+  "c": "Gin",
+  "d": "Sommerfrisk med agurk",
+  "i": [
+   "4 cl gin",
+   "2 cl limesaft",
+   "1,5 cl sukkersirup",
+   "3 skiver agurk",
+   "6 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Mos agurk med sirup, tilføj gin, lime og is, ryst og si over is. Top med danskvand.",
+  "g": "billeder/agurk-og-gin.jpg"
+ },
+ {
+  "n": "Earl Grey Martini",
+  "c": "Gin",
+  "d": "Te, citron og gin",
+  "i": [
+   "4,5 cl gin",
+   "2 cl citronsaft",
+   "2 cl sukkersirup",
+   "3 cl kold Earl Grey-te",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/earl-grey-martini.jpg"
+ },
+ {
+  "n": "Cosmopolitan",
+  "c": "Vodka",
+  "d": "Tranebær og lime, lyserød og syrlig",
+  "i": [
+   "4 cl citronvodka",
+   "1,5 cl Cointreau",
+   "1,5 cl limesaft",
+   "3 cl tranebærjuice",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet martiniglas. Pynt med appelsinskal.",
+  "g": "billeder/cosmopolitan.jpg"
+ },
+ {
+  "n": "Bloody Mary",
+  "c": "Vodka",
+  "d": "Krydret tomat, den klassiske tømmermændsdrink",
+  "i": [
+   "4,5 cl vodka",
+   "9 cl tomatjuice",
+   "1,5 cl citronsaft",
+   "3 stænk Worcestershire sauce",
+   "2 stænk Tabasco",
+   "Salt og peber",
+   "Isterninger"
+  ],
+  "m": "Rør alt med is i et højt glas. Pynt med selleri og citron.",
+  "g": "billeder/bloody-mary.jpg"
+ },
+ {
+  "n": "Screwdriver",
+  "c": "Vodka",
+  "d": "Vodka og appelsinjuice, enkelt",
+  "i": [
+   "5 cl vodka",
+   "10 cl appelsinjuice",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/screwdriver.jpg"
+ },
+ {
+  "n": "Black Russian",
+  "c": "Vodka",
+  "d": "Vodka og kaffelikør",
+  "i": [
+   "5 cl vodka",
+   "2 cl kaffelikør",
+   "Isterninger"
+  ],
+  "m": "Byg over is i et lavt glas og rør.",
+  "g": "billeder/black-russian.jpg"
+ },
+ {
+  "n": "Sex on the Beach",
+  "c": "Vodka",
+  "d": "Fersken, appelsin og tranebær",
+  "i": [
+   "4 cl vodka",
+   "2 cl ferskenlikør",
+   "4 cl appelsinjuice",
+   "4 cl tranebærjuice",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/sex-on-the-beach.jpg"
+ },
+ {
+  "n": "Vodka Martini",
+  "c": "Vodka",
+  "d": "Tør og iskold",
+  "i": [
+   "6 cl vodka",
+   "1 cl tør vermouth",
+   "Oliven",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op i et kølet glas. Pynt med oliven eller citronskal.",
+  "g": "billeder/vodka-martini.jpg"
+ },
+ {
+  "n": "Lemon Drop",
+  "c": "Vodka",
+  "d": "Sød og sur citron med sukkerkant",
+  "i": [
+   "4 cl citronvodka",
+   "2 cl triple sec",
+   "2,5 cl citronsaft",
+   "1 cl sukkersirup",
+   "Sukkerkant",
+   "Isterninger"
+  ],
+  "m": "Lav sukkerkant på glasset. Ryst resten med is og si op.",
+  "g": "billeder/lemon-drop.jpg"
+ },
+ {
+  "n": "Sea Breeze",
+  "c": "Vodka",
+  "d": "Tranebær og grape",
+  "i": [
+   "4 cl vodka",
+   "8 cl tranebærjuice",
+   "4 cl grapejuice",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/sea-breeze.jpg"
+ },
+ {
+  "n": "Cape Codder",
+  "c": "Vodka",
+  "d": "Vodka og tranebær med lime",
+  "i": [
+   "4 cl vodka",
+   "10 cl tranebærjuice",
+   "Limebåd",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og pynt med lime.",
+  "g": "billeder/cape-codder.jpg"
+ },
+ {
+  "n": "Kamikaze",
+  "c": "Vodka",
+  "d": "Lige dele, kort og skarp",
+  "i": [
+   "3 cl vodka",
+   "3 cl triple sec",
+   "3 cl limesaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op, som drink eller fordelt på shotglas.",
+  "g": "billeder/kamikaze.jpg"
+ },
+ {
+  "n": "Harvey Wallbanger",
+  "c": "Vodka",
+  "d": "Screwdriver med vaniljelikør",
+  "i": [
+   "4,5 cl vodka",
+   "9 cl appelsinjuice",
+   "1,5 cl Galliano",
+   "Isterninger"
+  ],
+  "m": "Byg vodka og juice over is, og dryp Galliano ovenpå.",
+  "g": "billeder/harvey-wallbanger.jpg"
+ },
+ {
+  "n": "Vodka Tonic",
+  "c": "Vodka",
+  "d": "Enkel og frisk",
+  "i": [
+   "4 cl vodka",
+   "12 cl tonic",
+   "Limebåd",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og pynt med lime.",
+  "g": "billeder/vodka-tonic.jpg"
+ },
+ {
+  "n": "Bay Breeze",
+  "c": "Vodka",
+  "d": "Tranebær og ananas",
+  "i": [
+   "4 cl vodka",
+   "6 cl tranebærjuice",
+   "6 cl ananasjuice",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/bay-breeze.jpg"
+ },
+ {
+  "n": "Salty Dog",
+  "c": "Vodka",
+  "d": "Grape med saltkant",
+  "i": [
+   "4 cl vodka",
+   "10 cl grapejuice",
+   "Saltkant",
+   "Isterninger"
+  ],
+  "m": "Lav saltkant, fyld med is og byg i glasset.",
+  "g": "billeder/salty-dog.jpg"
+ },
+ {
+  "n": "Woo Woo",
+  "c": "Vodka",
+  "d": "Fersken og tranebær",
+  "i": [
+   "4 cl vodka",
+   "2 cl ferskenlikør",
+   "8 cl tranebærjuice",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/woo-woo.jpg"
+ },
+ {
+  "n": "French Martini",
+  "c": "Vodka",
+  "d": "Hindbær og ananas med skum",
+  "i": [
+   "4 cl vodka",
+   "1,5 cl hindbærlikør",
+   "4,5 cl ananasjuice",
+   "Isterninger"
+  ],
+  "m": "Ryst hårdt med is, så ananassen skummer, og si op i et kølet glas.",
+  "g": "billeder/french-martini.jpg"
+ },
+ {
+  "n": "Caipiroska",
+  "c": "Vodka",
+  "d": "Caipirinha med vodka",
+  "i": [
+   "5 cl vodka",
+   "½ lime i både",
+   "2 tsk rørsukker",
+   "Knust is"
+  ],
+  "m": "Mos lime og sukker i glasset, fyld med knust is, hæld vodka over og rør.",
+  "g": "billeder/caipiroska.jpg"
+ },
+ {
+  "n": "Espresso Tonic med vodka",
+  "c": "Vodka",
+  "d": "Bitter, kaffe og bobler",
+  "i": [
+   "3 cl vodka",
+   "3 cl kold espresso",
+   "10 cl tonic",
+   "Isterninger"
+  ],
+  "m": "Hæld tonic og vodka over is, og hæld espressoen langsomt ovenpå.",
+  "g": "billeder/espresso-tonic-med-vodka.jpg"
+ },
+ {
+  "n": "Mudslide",
+  "c": "Vodka",
+  "d": "Is-dessert i glas",
+  "i": [
+   "3 cl vodka",
+   "3 cl kaffelikør",
+   "3 cl Baileys",
+   "3 cl fløde",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op over is. Kan også blendes med vaniljeis.",
+  "g": "billeder/mudslide.jpg"
+ },
+ {
+  "n": "Godmother",
+  "c": "Vodka",
+  "d": "Vodka og amaretto",
+  "i": [
+   "4,5 cl vodka",
+   "2 cl amaretto",
+   "Isterninger"
+  ],
+  "m": "Rør over is i et lavt glas.",
+  "g": "billeder/godmother.jpg"
+ },
+ {
+  "n": "Bullfrog",
+  "c": "Vodka",
+  "d": "Vodka og citronsodavand",
+  "i": [
+   "4 cl vodka",
+   "12 cl lemon sodavand",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/bullfrog.jpg"
+ },
+ {
+  "n": "Vodka Sour",
+  "c": "Vodka",
+  "d": "Syrlig med skum",
+  "i": [
+   "5 cl vodka",
+   "2,5 cl citronsaft",
+   "2 cl sukkersirup",
+   "1 æggehvide",
+   "Isterninger"
+  ],
+  "m": "Ryst først uden is, så med is, og si over i et glas med is.",
+  "g": "billeder/vodka-sour.jpg"
+ },
+ {
+  "n": "Hugo Vodka Spritz",
+  "c": "Vodka",
+  "d": "Hyldeblomst, mynte og bobler",
+  "i": [
+   "3 cl vodka",
+   "2 cl koncentreret hyldeblomstsaft",
+   "8 cl prosecco",
+   "4 cl danskvand",
+   "Mynteblade",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is og rør forsigtigt.",
+  "g": "billeder/hugo-vodka-spritz.jpg"
+ },
+ {
+  "n": "Watermelon Vodka Cooler",
+  "c": "Vodka",
+  "d": "Vandmelon, lime og mynte",
+  "i": [
+   "4 cl vodka",
+   "8 cl vandmelonjuice",
+   "1,5 cl limesaft",
+   "1 cl sukkersirup",
+   "Mynteblade",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si over is i et højt glas.",
+  "g": "billeder/watermelon-vodka-cooler.jpg"
+ },
+ {
+  "n": "Kirsebær Fizz",
+  "c": "Vodka",
+  "d": "Kirsebær og danskvand",
+  "i": [
+   "4 cl vodka",
+   "2 cl kirsebærlikør",
+   "1,5 cl citronsaft",
+   "8 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/kirsebaer-fizz.jpg"
+ },
+ {
+  "n": "Grøn Mule",
+  "c": "Vodka",
+  "d": "Moscow Mule med agurk og mynte",
+  "i": [
+   "4 cl vodka",
+   "1,5 cl limesaft",
+   "3 skiver agurk",
+   "Mynteblade",
+   "10 cl ginger beer",
+   "Isterninger"
+  ],
+  "m": "Mos agurk og mynte i et krus, tilføj vodka, lime og is og top med ginger beer.",
+  "g": "billeder/groen-mule.jpg"
+ },
+ {
+  "n": "Ananas Vodka Fizz",
+  "c": "Vodka",
+  "d": "Ananas, lime og bobler",
+  "i": [
+   "4 cl vodka",
+   "6 cl ananasjuice",
+   "1 cl limesaft",
+   "6 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/ananas-vodka-fizz.jpg"
+ },
+ {
+  "n": "Cuba Libre",
+  "c": "Rom",
+  "d": "Rom, cola og lime",
+  "i": [
+   "5 cl rom",
+   "12 cl cola",
+   "1 cl limesaft",
+   "Isterninger"
+  ],
+  "m": "Pres lime i et højt glas med is, hæld rom over og top med cola.",
+  "g": "billeder/cuba-libre.jpg"
+ },
+ {
+  "n": "Dark 'n' Stormy",
+  "c": "Rom",
+  "d": "Mørk rom og ginger beer",
+  "i": [
+   "6 cl mørk rom",
+   "10 cl ginger beer",
+   "Limebåd",
+   "Isterninger"
+  ],
+  "m": "Fyld et højt glas med is og ginger beer, og hæld rommen langsomt ovenpå.",
+  "g": "billeder/dark-n-stormy.jpg"
+ },
+ {
+  "n": "Mai Tai",
+  "c": "Rom",
+  "d": "Tiki-klassikeren med mandel og lime",
+  "i": [
+   "3 cl lys rom",
+   "3 cl mørk rom",
+   "1,5 cl triple sec",
+   "1,5 cl orgeat",
+   "2,5 cl limesaft",
+   "Knust is"
+  ],
+  "m": "Ryst med is og hæld over knust is. Pynt med mynte og lime.",
+  "g": "billeder/mai-tai.jpg"
+ },
+ {
+  "n": "Zombie",
+  "c": "Rom",
+  "d": "Kraftig tiki med frugt og krydderi",
+  "i": [
+   "3 cl lys rom",
+   "3 cl mørk rom",
+   "1,5 cl overproof rom",
+   "2 cl limesaft",
+   "1,5 cl grenadine",
+   "3 cl ananasjuice",
+   "1 stænk Angostura",
+   "Knust is"
+  ],
+  "m": "Ryst med is og hæld over knust is i et højt glas.",
+  "g": "billeder/zombie.jpg"
+ },
+ {
+  "n": "Hurricane",
+  "c": "Rom",
+  "d": "Passionsfrugt og rom fra New Orleans",
+  "i": [
+   "4 cl lys rom",
+   "4 cl mørk rom",
+   "4 cl passionsfrugtjuice",
+   "3 cl appelsinjuice",
+   "1,5 cl limesaft",
+   "1 cl grenadine",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si over is i et højt glas.",
+  "g": "billeder/hurricane.jpg"
+ },
+ {
+  "n": "Planter's Punch",
+  "c": "Rom",
+  "d": "Mørk rom med frugt og krydderi",
+  "i": [
+   "4,5 cl mørk rom",
+   "3 cl appelsinjuice",
+   "3 cl ananasjuice",
+   "1,5 cl limesaft",
+   "1 cl grenadine",
+   "1 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si over is i et højt glas.",
+  "g": "billeder/planter-s-punch.jpg"
+ },
+ {
+  "n": "Painkiller",
+  "c": "Rom",
+  "d": "Ananas, appelsin, kokos og muskat",
+  "i": [
+   "6 cl mørk rom",
+   "12 cl ananasjuice",
+   "3 cl appelsinjuice",
+   "3 cl kokosfløde",
+   "Revet muskatnød",
+   "Isterninger"
+  ],
+  "m": "Ryst med is, hæld over is og riv muskat ovenpå.",
+  "g": "billeder/painkiller.jpg"
+ },
+ {
+  "n": "Rum Punch",
+  "c": "Rom",
+  "d": "Frugtig og til mange",
+  "i": [
+   "5 cl rom",
+   "4 cl ananasjuice",
+   "4 cl appelsinjuice",
+   "1,5 cl limesaft",
+   "1 cl grenadine",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og hæld over is. Gang op til en bowle.",
+  "g": "billeder/rum-punch.jpg"
+ },
+ {
+  "n": "Rum Runner",
+  "c": "Rom",
+  "d": "Banan, brombær og rom",
+  "i": [
+   "3 cl lys rom",
+   "3 cl mørk rom",
+   "1,5 cl bananlikør",
+   "1,5 cl brombærlikør",
+   "3 cl ananasjuice",
+   "1 cl grenadine",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og hæld over is.",
+  "g": "billeder/rum-runner.jpg"
+ },
+ {
+  "n": "El Presidente",
+  "c": "Rom",
+  "d": "Rom, vermouth og appelsin",
+  "i": [
+   "4,5 cl hvid rom",
+   "2 cl tør vermouth",
+   "1 cl triple sec",
+   "0,5 cl grenadine",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op i et kølet glas.",
+  "g": "billeder/el-presidente.jpg"
+ },
+ {
+  "n": "Hemingway Daiquiri",
+  "c": "Rom",
+  "d": "Daiquiri med grape og maraschino",
+  "i": [
+   "6 cl hvid rom",
+   "1,5 cl maraschino",
+   "2 cl limesaft",
+   "1,5 cl grapejuice",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/hemingway-daiquiri.jpg"
+ },
+ {
+  "n": "Jungle Bird",
+  "c": "Rom",
+  "d": "Rom, Campari og ananas",
+  "i": [
+   "4,5 cl mørk rom",
+   "2 cl Campari",
+   "4,5 cl ananasjuice",
+   "1,5 cl limesaft",
+   "1,5 cl sukkersirup",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og hæld over is i et lavt glas.",
+  "g": "billeder/jungle-bird.jpg"
+ },
+ {
+  "n": "Bacardi Cocktail",
+  "c": "Rom",
+  "d": "Daiquiri med grenadine",
+  "i": [
+   "4,5 cl hvid rom",
+   "2 cl limesaft",
+   "1 cl grenadine",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/bacardi-cocktail.jpg"
+ },
+ {
+  "n": "Rum Old Fashioned",
+  "c": "Rom",
+  "d": "Mørk rom på den klassiske måde",
+  "i": [
+   "6 cl mørk rom",
+   "0,5 cl sukkersirup",
+   "2 stænk Angostura",
+   "Appelsinskal",
+   "Isterninger"
+  ],
+  "m": "Rør rom, sirup og bitter med is og si over en stor isterning. Pynt med appelsinskal.",
+  "g": "billeder/rum-old-fashioned.jpg"
+ },
+ {
+  "n": "Mary Pickford",
+  "c": "Rom",
+  "d": "Ananas, rom og maraschino",
+  "i": [
+   "4,5 cl hvid rom",
+   "4,5 cl ananasjuice",
+   "0,5 cl grenadine",
+   "0,5 cl maraschino",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/mary-pickford.jpg"
+ },
+ {
+  "n": "Navy Grog",
+  "c": "Rom",
+  "d": "Tre slags rom med grape og honning",
+  "i": [
+   "3 cl lys rom",
+   "3 cl mørk rom",
+   "2 cl limesaft",
+   "2 cl grapejuice",
+   "2 cl honningsirup",
+   "3 cl danskvand",
+   "Knust is"
+  ],
+  "m": "Ryst alt undtagen danskvand med is, hæld over knust is og top med danskvand.",
+  "g": "billeder/navy-grog.jpg"
+ },
+ {
+  "n": "Kokos Mojito",
+  "c": "Rom",
+  "d": "Mojito med kokosrom",
+  "i": [
+   "4 cl kokosrom",
+   "2 cl limesaft",
+   "2 tsk rørsukker",
+   "8 mynteblade",
+   "6 cl danskvand",
+   "Knust is"
+  ],
+  "m": "Mos mynte, lime og sukker, fyld med knust is, tilføj rom og top med danskvand.",
+  "g": "billeder/kokos-mojito.jpg"
+ },
+ {
+  "n": "Hot Buttered Rum",
+  "c": "Rom",
+  "d": "Varm rom med smør og krydderier",
+  "i": [
+   "5 cl mørk rom",
+   "1 tsk brun farin",
+   "1 tsk smør",
+   "Kanel og muskat",
+   "10 cl kogende vand"
+  ],
+  "m": "Rør sukker, smør og krydderier ud i et krus, hæld rom og varmt vand over og rør.",
+  "g": "billeder/hot-buttered-rum.jpg"
+ },
+ {
+  "n": "Ti' Punch",
+  "c": "Rom",
+  "d": "Rom, lime og sukkerrør",
+  "i": [
+   "5 cl hvid rom",
+   "1 limeskive",
+   "1 tsk rørsukker"
+  ],
+  "m": "Pres lime over sukkeret i et lille glas, hæld rommen over og rør. Is efter smag.",
+  "g": "billeder/ti-punch.jpg"
+ },
+ {
+  "n": "Rum Swizzle",
+  "c": "Rom",
+  "d": "Frugtig og krydret over knust is",
+  "i": [
+   "4 cl mørk rom",
+   "2 cl limesaft",
+   "2 cl ananasjuice",
+   "2 cl appelsinjuice",
+   "1 cl sukkersirup",
+   "2 stænk Angostura",
+   "Knust is"
+  ],
+  "m": "Rør det hele med knust is i et højt glas, til glasset dugger.",
+  "g": "billeder/rum-swizzle.jpg"
+ },
+ {
+  "n": "Banana Daiquiri",
+  "c": "Rom",
+  "d": "Frossen banan og rom",
+  "i": [
+   "5 cl hvid rom",
+   "2 cl limesaft",
+   "1,5 cl sukkersirup",
+   "1 moden banan",
+   "Knust is"
+  ],
+  "m": "Blend med knust is til en glat masse.",
+  "g": "billeder/banana-daiquiri.jpg"
+ },
+ {
+  "n": "Rom & Ginger",
+  "c": "Rom",
+  "d": "Krydret rom og ginger ale",
+  "i": [
+   "4 cl krydret rom",
+   "12 cl ginger ale",
+   "Limebåd",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og pynt med lime.",
+  "g": "billeder/rom-ginger.jpg"
+ },
+ {
+  "n": "Mango Daiquiri",
+  "c": "Rom",
+  "d": "Frossen mango og lime",
+  "i": [
+   "5 cl hvid rom",
+   "2 cl limesaft",
+   "1 cl sukkersirup",
+   "1 dl mango i tern",
+   "Knust is"
+  ],
+  "m": "Blend med knust is.",
+  "g": "billeder/mango-daiquiri.jpg"
+ },
+ {
+  "n": "Blue Hawaiian",
+  "c": "Rom",
+  "d": "Blå, kokos og ananas",
+  "i": [
+   "3 cl hvid rom",
+   "2 cl blue curaçao",
+   "6 cl ananasjuice",
+   "3 cl kokosfløde",
+   "Knust is"
+  ],
+  "m": "Blend eller ryst med is og hæld over knust is.",
+  "g": "billeder/blue-hawaiian.jpg"
+ },
+ {
+  "n": "Passion Rum Fizz",
+  "c": "Rom",
+  "d": "Passionsfrugt og bobler",
+  "i": [
+   "4 cl hvid rom",
+   "½ passionsfrugt",
+   "1,5 cl limesaft",
+   "1 cl sukkersirup",
+   "6 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Ryst rom, passionsfrugt, lime og sirup med is, si over is og top med danskvand.",
+  "g": "billeder/passion-rum-fizz.jpg"
+ },
+ {
+  "n": "Tommy's Margarita",
+  "c": "Tequila",
+  "d": "Margarita med agavesirup",
+  "i": [
+   "6 cl tequila",
+   "3 cl limesaft",
+   "1,5 cl agavesirup",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si over is i et lavt glas.",
+  "g": "billeder/tommy-s-margarita.jpg"
+ },
+ {
+  "n": "Paloma",
+  "c": "Tequila",
+  "d": "Mexicos favorit med grape",
+  "i": [
+   "5 cl tequila",
+   "1,5 cl limesaft",
+   "10 cl grapesodavand",
+   "Saltkant",
+   "Isterninger"
+  ],
+  "m": "Lav evt. saltkant. Byg i et højt glas med is og rør.",
+  "g": "billeder/paloma.jpg"
+ },
+ {
+  "n": "Frozen Margarita",
+  "c": "Tequila",
+  "d": "Margarita blendet med is",
+  "i": [
+   "5 cl tequila",
+   "2 cl triple sec",
+   "3 cl limesaft",
+   "1 cl sukkersirup",
+   "Knust is"
+  ],
+  "m": "Blend det hele med en håndfuld knust is.",
+  "g": "billeder/frozen-margarita.jpg"
+ },
+ {
+  "n": "Strawberry Margarita",
+  "c": "Tequila",
+  "d": "Margarita med jordbær",
+  "i": [
+   "5 cl tequila",
+   "2 cl triple sec",
+   "2,5 cl limesaft",
+   "5 jordbær",
+   "Isterninger"
+  ],
+  "m": "Mos jordbærrene, ryst med resten og is, og si op.",
+  "g": "billeder/strawberry-margarita.jpg"
+ },
+ {
+  "n": "Mango Margarita",
+  "c": "Tequila",
+  "d": "Sød mango og syrlig lime",
+  "i": [
+   "5 cl tequila",
+   "1,5 cl triple sec",
+   "2,5 cl limesaft",
+   "4 cl mangojuice",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op over is.",
+  "g": "billeder/mango-margarita.jpg"
+ },
+ {
+  "n": "Spicy Margarita",
+  "c": "Tequila",
+  "d": "Margarita med chili",
+  "i": [
+   "5 cl tequila",
+   "2 cl triple sec",
+   "2,5 cl limesaft",
+   "1 cl agavesirup",
+   "2 skiver chili",
+   "Isterninger"
+  ],
+  "m": "Mos chilien let, ryst med resten og is, og si op.",
+  "g": "billeder/spicy-margarita.jpg"
+ },
+ {
+  "n": "El Diablo",
+  "c": "Tequila",
+  "d": "Solbær, lime og ingefær",
+  "i": [
+   "4,5 cl tequila",
+   "1,5 cl crème de cassis",
+   "1,5 cl limesaft",
+   "10 cl ginger beer",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/el-diablo.jpg"
+ },
+ {
+  "n": "Tequila Sour",
+  "c": "Tequila",
+  "d": "Syrlig med skum",
+  "i": [
+   "5 cl tequila",
+   "2,5 cl citronsaft",
+   "2 cl sukkersirup",
+   "1 æggehvide",
+   "Isterninger"
+  ],
+  "m": "Ryst først uden is, så med is, og si over is.",
+  "g": "billeder/tequila-sour.jpg"
+ },
+ {
+  "n": "Mexican Mule",
+  "c": "Tequila",
+  "d": "Mule med tequila",
+  "i": [
+   "4,5 cl tequila",
+   "1,5 cl limesaft",
+   "12 cl ginger beer",
+   "Isterninger"
+  ],
+  "m": "Byg i et krus med is og pynt med lime.",
+  "g": "billeder/mexican-mule.jpg"
+ },
+ {
+  "n": "Tequila Tonic",
+  "c": "Tequila",
+  "d": "Enkel og frisk",
+  "i": [
+   "4 cl tequila",
+   "12 cl tonic",
+   "Limebåd",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/tequila-tonic.jpg"
+ },
+ {
+  "n": "Batanga",
+  "c": "Tequila",
+  "d": "Tequila, cola og lime med saltkant",
+  "i": [
+   "5 cl tequila",
+   "1,5 cl limesaft",
+   "12 cl cola",
+   "Saltkant",
+   "Isterninger"
+  ],
+  "m": "Lav saltkant, fyld med is, hæld tequila og lime i og top med cola.",
+  "g": "billeder/batanga.jpg"
+ },
+ {
+  "n": "Matador",
+  "c": "Tequila",
+  "d": "Ananas og lime",
+  "i": [
+   "4,5 cl tequila",
+   "6 cl ananasjuice",
+   "1,5 cl limesaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/matador.jpg"
+ },
+ {
+  "n": "Brave Bull",
+  "c": "Tequila",
+  "d": "Tequila og kaffelikør",
+  "i": [
+   "4,5 cl tequila",
+   "3 cl kaffelikør",
+   "Isterninger"
+  ],
+  "m": "Byg over is i et lavt glas og rør.",
+  "g": "billeder/brave-bull.jpg"
+ },
+ {
+  "n": "Oaxaca Old Fashioned",
+  "c": "Tequila",
+  "d": "Tequila og mezcal med bitter",
+  "i": [
+   "4,5 cl tequila",
+   "1,5 cl mezcal",
+   "0,5 cl agavesirup",
+   "2 stænk Angostura",
+   "Appelsinskal",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si over en stor isterning. Pynt med appelsinskal.",
+  "g": "billeder/oaxaca-old-fashioned.jpg"
+ },
+ {
+  "n": "Mezcal Negroni",
+  "c": "Tequila",
+  "d": "Negroni med røg",
+  "i": [
+   "3 cl mezcal",
+   "3 cl Campari",
+   "3 cl sød vermouth",
+   "Appelsinskive",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si over en stor isterning.",
+  "g": "billeder/mezcal-negroni.jpg"
+ },
+ {
+  "n": "Vandmelon Margarita",
+  "c": "Tequila",
+  "d": "Sommer i et glas",
+  "i": [
+   "5 cl tequila",
+   "1,5 cl triple sec",
+   "2 cl limesaft",
+   "6 cl vandmelonjuice",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op over is.",
+  "g": "billeder/vandmelon-margarita.jpg"
+ },
+ {
+  "n": "Tequila Fizz",
+  "c": "Tequila",
+  "d": "Tequila, lime og danskvand",
+  "i": [
+   "5 cl tequila",
+   "2 cl limesaft",
+   "1,5 cl sukkersirup",
+   "8 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/tequila-fizz.jpg"
+ },
+ {
+  "n": "Bloody Maria",
+  "c": "Tequila",
+  "d": "Bloody Mary med tequila",
+  "i": [
+   "4,5 cl tequila",
+   "9 cl tomatjuice",
+   "1,5 cl limesaft",
+   "2 stænk Worcestershire sauce",
+   "2 stænk Tabasco",
+   "Salt og peber",
+   "Isterninger"
+  ],
+  "m": "Rør alt med is i et højt glas.",
+  "g": "billeder/bloody-maria.jpg"
+ },
+ {
+  "n": "Whiskey Sour",
+  "c": "Whisky",
+  "d": "Syrlig, rund og med skum",
+  "i": [
+   "5 cl bourbon",
+   "2,5 cl citronsaft",
+   "2 cl sukkersirup",
+   "1 æggehvide",
+   "Isterninger"
+  ],
+  "m": "Ryst først uden is, så med is, og si over is. Et par dråber Angostura på skummet.",
+  "g": "billeder/whiskey-sour.jpg"
+ },
+ {
+  "n": "Manhattan",
+  "c": "Whisky",
+  "d": "Rug, sød vermouth og bitter",
+  "i": [
+   "5 cl rugwhiskey",
+   "2 cl sød vermouth",
+   "2 stænk Angostura",
+   "Cocktailbær",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op i et kølet glas. Pynt med et kirsebær.",
+  "g": "billeder/manhattan.jpg"
+ },
+ {
+  "n": "Boulevardier",
+  "c": "Whisky",
+  "d": "Negroni med bourbon",
+  "i": [
+   "4,5 cl bourbon",
+   "3 cl Campari",
+   "3 cl sød vermouth",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si over is. Pynt med appelsinskal.",
+  "g": "billeder/boulevardier.jpg"
+ },
+ {
+  "n": "Mint Julep",
+  "c": "Whisky",
+  "d": "Bourbon og mynte over knust is",
+  "i": [
+   "6 cl bourbon",
+   "1 cl sukkersirup",
+   "8 mynteblade",
+   "Knust is"
+  ],
+  "m": "Mos mynten let med sirup, fyld med knust is, hæld bourbon over og rør, til glasset dugger.",
+  "g": "billeder/mint-julep.jpg"
+ },
+ {
+  "n": "Irish Coffee",
+  "c": "Kaffe & dessert",
+  "d": "Varm kaffe, whiskey og flødeskum",
+  "i": [
+   "4 cl irsk whiskey",
+   "1 tsk brun farin",
+   "10 cl varm kaffe",
+   "3 cl let pisket fløde"
+  ],
+  "m": "Rør sukker ud i kaffe og whiskey i et varmt glas, og lad fløden flyde ovenpå.",
+  "g": "billeder/irish-coffee.jpg"
+ },
+ {
+  "n": "Penicillin",
+  "c": "Whisky",
+  "d": "Honning, ingefær og en røget top",
+  "i": [
+   "5 cl blended whisky",
+   "2 cl citronsaft",
+   "2 cl honning-ingefærsirup",
+   "0,5 cl røget islay whisky",
+   "Isterninger"
+  ],
+  "m": "Ryst alt undtagen islay med is, si over is og dryp islay ovenpå.",
+  "g": "billeder/penicillin.jpg"
+ },
+ {
+  "n": "Rob Roy",
+  "c": "Whisky",
+  "d": "Manhattan med skotsk whisky",
+  "i": [
+   "5 cl skotsk whisky",
+   "2,5 cl sød vermouth",
+   "1 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op i et kølet glas.",
+  "g": "billeder/rob-roy.jpg"
+ },
+ {
+  "n": "Sazerac",
+  "c": "Whisky",
+  "d": "Rug, absint og Peychaud's",
+  "i": [
+   "5 cl rugwhiskey",
+   "0,5 cl sukkersirup",
+   "3 stænk Peychaud's bitter",
+   "1 stænk absint",
+   "Citronskal",
+   "Isterninger"
+  ],
+  "m": "Skyl glasset med absint. Rør resten med is og si op. Vrid citronskal over.",
+  "g": "billeder/sazerac.jpg"
+ },
+ {
+  "n": "Whisky Highball",
+  "c": "Whisky",
+  "d": "Whisky og danskvand, let og ren",
+  "i": [
+   "4 cl whisky",
+   "12 cl danskvand",
+   "Citronskal",
+   "Isterninger"
+  ],
+  "m": "Fyld et højt glas med is, hæld whisky og danskvand i og rør én gang.",
+  "g": "billeder/whisky-highball.jpg"
+ },
+ {
+  "n": "Rusty Nail",
+  "c": "Whisky",
+  "d": "Skotsk whisky og Drambuie",
+  "i": [
+   "4,5 cl skotsk whisky",
+   "2,5 cl Drambuie",
+   "Isterninger"
+  ],
+  "m": "Rør over is i et lavt glas.",
+  "g": "billeder/rusty-nail.jpg"
+ },
+ {
+  "n": "Godfather",
+  "c": "Whisky",
+  "d": "Whisky og amaretto",
+  "i": [
+   "4,5 cl skotsk whisky",
+   "2 cl amaretto",
+   "Isterninger"
+  ],
+  "m": "Rør over is i et lavt glas.",
+  "g": "billeder/godfather.jpg"
+ },
+ {
+  "n": "Gold Rush",
+  "c": "Whisky",
+  "d": "Bourbon, honning og citron",
+  "i": [
+   "6 cl bourbon",
+   "2 cl citronsaft",
+   "2 cl honningsirup",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si over is.",
+  "g": "billeder/gold-rush.jpg"
+ },
+ {
+  "n": "Paper Plane",
+  "c": "Whisky",
+  "d": "Lige dele, bittersød og frisk",
+  "i": [
+   "2,25 cl bourbon",
+   "2,25 cl Aperol",
+   "2,25 cl Amaro Nonino",
+   "2,25 cl citronsaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/paper-plane.jpg"
+ },
+ {
+  "n": "Whiskey Smash",
+  "c": "Whisky",
+  "d": "Citron, mynte og bourbon",
+  "i": [
+   "6 cl bourbon",
+   "½ citron i både",
+   "1,5 cl sukkersirup",
+   "6 mynteblade",
+   "Knust is"
+  ],
+  "m": "Mos citron og mynte med sirup, tilføj bourbon og is, ryst og si over knust is.",
+  "g": "billeder/whiskey-smash.jpg"
+ },
+ {
+  "n": "Blood and Sand",
+  "c": "Whisky",
+  "d": "Whisky, kirsebær og appelsin",
+  "i": [
+   "2,25 cl skotsk whisky",
+   "2,25 cl kirsebærlikør",
+   "2,25 cl sød vermouth",
+   "2,25 cl appelsinjuice",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/blood-and-sand.jpg"
+ },
+ {
+  "n": "Jack & Cola",
+  "c": "Whisky",
+  "d": "Whiskey og cola",
+  "i": [
+   "4 cl whiskey",
+   "12 cl cola",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/jack-cola.jpg"
+ },
+ {
+  "n": "Whisky Ginger",
+  "c": "Whisky",
+  "d": "Whisky og ginger ale",
+  "i": [
+   "4 cl whisky",
+   "12 cl ginger ale",
+   "Limebåd",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/whisky-ginger.jpg"
+ },
+ {
+  "n": "New York Sour",
+  "c": "Whisky",
+  "d": "Whiskey sour med rødvin ovenpå",
+  "i": [
+   "5 cl bourbon",
+   "2,5 cl citronsaft",
+   "2 cl sukkersirup",
+   "1,5 cl rødvin",
+   "Isterninger"
+  ],
+  "m": "Ryst bourbon, citron og sirup med is, si over is og hæld rødvinen forsigtigt over en ske, så den ligger øverst.",
+  "g": "billeder/new-york-sour.jpg"
+ },
+ {
+  "n": "Hot Toddy",
+  "c": "Whisky",
+  "d": "Varm whisky med honning og citron",
+  "i": [
+   "4 cl whisky",
+   "1 spsk honning",
+   "1 cl citronsaft",
+   "10 cl kogende vand",
+   "Kanelstang"
+  ],
+  "m": "Rør honning ud i vandet i et krus, tilføj whisky og citron og pynt med kanel.",
+  "g": "billeder/hot-toddy.jpg"
+ },
+ {
+  "n": "Brown Derby",
+  "c": "Whisky",
+  "d": "Bourbon, grape og honning",
+  "i": [
+   "4,5 cl bourbon",
+   "3 cl grapejuice",
+   "1,5 cl honningsirup",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/brown-derby.jpg"
+ },
+ {
+  "n": "Ward Eight",
+  "c": "Whisky",
+  "d": "Rug, citrus og grenadine",
+  "i": [
+   "5 cl rugwhiskey",
+   "1,5 cl citronsaft",
+   "1,5 cl appelsinjuice",
+   "1 cl grenadine",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/ward-eight.jpg"
+ },
+ {
+  "n": "Bourbon Lemonade",
+  "c": "Whisky",
+  "d": "Lang og sommerfrisk",
+  "i": [
+   "4 cl bourbon",
+   "2 cl citronsaft",
+   "1,5 cl sukkersirup",
+   "8 cl danskvand",
+   "Mynteblade",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/bourbon-lemonade.jpg"
+ },
+ {
+  "n": "Æble Whisky Highball",
+  "c": "Whisky",
+  "d": "Whisky og æblejuice",
+  "i": [
+   "4 cl whisky",
+   "10 cl æblejuice",
+   "2 cl danskvand",
+   "Kanelstang",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og pynt med kanel.",
+  "g": "billeder/aeble-whisky-highball.jpg"
+ },
+ {
+  "n": "Sidecar",
+  "c": "Cognac & brandy",
+  "d": "Cognac, appelsin og citron med sukkerkant",
+  "i": [
+   "5 cl cognac",
+   "2 cl triple sec",
+   "2 cl citronsaft",
+   "Sukkerkant",
+   "Isterninger"
+  ],
+  "m": "Lav sukkerkant. Ryst resten med is og si op.",
+  "g": "billeder/sidecar.jpg"
+ },
+ {
+  "n": "Brandy Alexander",
+  "c": "Kaffe & dessert",
+  "d": "Kakao, fløde og cognac",
+  "i": [
+   "3 cl cognac",
+   "3 cl mørk kakaolikør",
+   "3 cl fløde",
+   "Revet muskatnød",
+   "Isterninger"
+  ],
+  "m": "Ryst med is, si op og riv muskat ovenpå.",
+  "g": "billeder/brandy-alexander.jpg"
+ },
+ {
+  "n": "Vieux Carré",
+  "c": "Cognac & brandy",
+  "d": "Rug, cognac og Bénédictine",
+  "i": [
+   "2,25 cl rugwhiskey",
+   "2,25 cl cognac",
+   "2,25 cl sød vermouth",
+   "0,5 cl Bénédictine",
+   "2 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si over is.",
+  "g": "billeder/vieux-carre.jpg"
+ },
+ {
+  "n": "Between the Sheets",
+  "c": "Cognac & brandy",
+  "d": "Cognac og rom med citrus",
+  "i": [
+   "3 cl cognac",
+   "3 cl hvid rom",
+   "3 cl triple sec",
+   "2 cl citronsaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/between-the-sheets.jpg"
+ },
+ {
+  "n": "Stinger",
+  "c": "Cognac & brandy",
+  "d": "Cognac og pebermynte",
+  "i": [
+   "5 cl cognac",
+   "2 cl hvid crème de menthe",
+   "Isterninger"
+  ],
+  "m": "Ryst eller rør med is og si op.",
+  "g": "billeder/stinger.jpg"
+ },
+ {
+  "n": "French Connection",
+  "c": "Cognac & brandy",
+  "d": "Cognac og amaretto",
+  "i": [
+   "4 cl cognac",
+   "2 cl amaretto",
+   "Isterninger"
+  ],
+  "m": "Rør over is i et lavt glas.",
+  "g": "billeder/french-connection.jpg"
+ },
+ {
+  "n": "Brandy Sour",
+  "c": "Cognac & brandy",
+  "d": "Syrlig med skum",
+  "i": [
+   "5 cl cognac",
+   "2,5 cl citronsaft",
+   "2 cl sukkersirup",
+   "1 æggehvide",
+   "Isterninger"
+  ],
+  "m": "Ryst først uden is, så med is, og si over is.",
+  "g": "billeder/brandy-sour.jpg"
+ },
+ {
+  "n": "Japanese Cocktail",
+  "c": "Cognac & brandy",
+  "d": "Cognac med mandel og bitter",
+  "i": [
+   "6 cl cognac",
+   "1,5 cl orgeat",
+   "2 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op.",
+  "g": "billeder/japanese-cocktail.jpg"
+ },
+ {
+  "n": "Champs-Élysées",
+  "c": "Cognac & brandy",
+  "d": "Cognac, Chartreuse og citron",
+  "i": [
+   "4,5 cl cognac",
+   "1,5 cl grøn Chartreuse",
+   "2 cl citronsaft",
+   "1 cl sukkersirup",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/champs-elysees.jpg"
+ },
+ {
+  "n": "Calvados Tonic",
+  "c": "Cognac & brandy",
+  "d": "Æblebrændevin og tonic",
+  "i": [
+   "4 cl calvados",
+   "12 cl tonic",
+   "Æbleskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/calvados-tonic.jpg"
+ },
+ {
+  "n": "Pisco Sour",
+  "c": "Cognac & brandy",
+  "d": "Perus nationaldrink",
+  "i": [
+   "6 cl pisco",
+   "3 cl limesaft",
+   "2 cl sukkersirup",
+   "1 æggehvide",
+   "3 dråber Angostura",
+   "Isterninger"
+  ],
+  "m": "Ryst først uden is, så med is, og si op. Dryp bitter på skummet.",
+  "g": "billeder/pisco-sour.jpg"
+ },
+ {
+  "n": "Metropolitan",
+  "c": "Cognac & brandy",
+  "d": "Manhattan med cognac",
+  "i": [
+   "4,5 cl cognac",
+   "3 cl sød vermouth",
+   "0,5 cl sukkersirup",
+   "2 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op i et kølet glas.",
+  "g": "billeder/metropolitan.jpg"
+ },
+ {
+  "n": "Campari Spritz",
+  "c": "Spritz",
+  "d": "Mere bitter end Aperol",
+  "i": [
+   "4 cl Campari",
+   "9 cl prosecco",
+   "3 cl danskvand",
+   "Appelsinskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is og rør forsigtigt.",
+  "g": "billeder/campari-spritz.jpg"
+ },
+ {
+  "n": "Hugo",
+  "c": "Spritz",
+  "d": "Hyldeblomst, mynte og bobler",
+  "i": [
+   "2 cl koncentreret hyldeblomstsaft",
+   "10 cl prosecco",
+   "4 cl danskvand",
+   "Mynteblade",
+   "Limeskive",
+   "Isterninger"
+  ],
+  "m": "Klap mynten, læg den i et vinglas med is og lime, og hæld resten over.",
+  "g": "billeder/hugo.jpg"
+ },
+ {
+  "n": "Limoncello Spritz",
+  "c": "Spritz",
+  "d": "Citron og bobler",
+  "i": [
+   "4 cl limoncello",
+   "8 cl prosecco",
+   "3 cl danskvand",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is og rør forsigtigt.",
+  "g": "billeder/limoncello-spritz.jpg"
+ },
+ {
+  "n": "Lillet Tonic",
+  "c": "Spritz",
+  "d": "Fransk aperitif med tonic",
+  "i": [
+   "5 cl Lillet Blanc",
+   "10 cl tonic",
+   "Agurk og jordbær",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is og pynt med agurk eller jordbær.",
+  "g": "billeder/lillet-tonic.jpg"
+ },
+ {
+  "n": "Kir",
+  "c": "Spritz",
+  "d": "Solbær og hvidvin",
+  "i": [
+   "1,5 cl crème de cassis",
+   "12 cl hvidvin"
+  ],
+  "m": "Hæld cassis i et vinglas og top med kold hvidvin.",
+  "g": "billeder/kir.jpg"
+ },
+ {
+  "n": "Bellini",
+  "c": "Spritz",
+  "d": "Fersken og prosecco",
+  "i": [
+   "5 cl ferskenpuré",
+   "10 cl prosecco"
+  ],
+  "m": "Hæld ferskenpuré i et champagneglas og top langsomt med prosecco.",
+  "g": "billeder/bellini.jpg"
+ },
+ {
+  "n": "Rossini",
+  "c": "Spritz",
+  "d": "Jordbær og prosecco",
+  "i": [
+   "5 cl jordbærpuré",
+   "10 cl prosecco"
+  ],
+  "m": "Hæld jordbærpuré i et champagneglas og top langsomt med prosecco.",
+  "g": "billeder/rossini.jpg"
+ },
+ {
+  "n": "Mimosa",
+  "c": "Spritz",
+  "d": "Appelsinjuice og bobler",
+  "i": [
+   "7 cl appelsinjuice",
+   "7 cl prosecco"
+  ],
+  "m": "Hæld juice i et champagneglas og top med prosecco.",
+  "g": "billeder/mimosa.jpg"
+ },
+ {
+  "n": "Americano",
+  "c": "Spritz",
+  "d": "Campari og vermouth med bobler",
+  "i": [
+   "3 cl Campari",
+   "3 cl sød vermouth",
+   "6 cl danskvand",
+   "Appelsinskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et glas med is og rør.",
+  "g": "billeder/americano.jpg"
+ },
+ {
+  "n": "Negroni Sbagliato",
+  "c": "Spritz",
+  "d": "Negroni med prosecco i stedet for gin",
+  "i": [
+   "3 cl Campari",
+   "3 cl sød vermouth",
+   "6 cl prosecco",
+   "Appelsinskive",
+   "Isterninger"
+  ],
+  "m": "Byg Campari og vermouth over is, og top med prosecco.",
+  "g": "billeder/negroni-sbagliato.jpg"
+ },
+ {
+  "n": "St-Germain Spritz",
+  "c": "Spritz",
+  "d": "Blomstret hyldeblomstlikør",
+  "i": [
+   "4 cl hyldeblomstlikør",
+   "8 cl prosecco",
+   "4 cl danskvand",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is.",
+  "g": "billeder/st-germain-spritz.jpg"
+ },
+ {
+  "n": "Sangria",
+  "c": "Spritz",
+  "d": "Rødvin, frugt og appelsin til mange",
+  "i": [
+   "75 cl rødvin",
+   "6 cl cognac",
+   "6 cl triple sec",
+   "20 cl appelsinjuice",
+   "2 spsk sukker",
+   "Appelsin og æble i stykker",
+   "20 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Rør alt undtagen danskvand sammen i en kande og lad det trække koldt i en time. Top med danskvand og is.",
+  "g": "billeder/sangria.jpg"
+ },
+ {
+  "n": "Hvid Sangria",
+  "c": "Spritz",
+  "d": "Hvidvin med fersken og citrus",
+  "i": [
+   "75 cl hvidvin",
+   "6 cl ferskenlikør",
+   "10 cl æblejuice",
+   "Fersken og citron i skiver",
+   "20 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Rør sammen i en kande, lad det trække, og top med danskvand og is.",
+  "g": "billeder/hvid-sangria.jpg"
+ },
+ {
+  "n": "Tinto de Verano",
+  "c": "Spritz",
+  "d": "Rødvin og citronsodavand",
+  "i": [
+   "8 cl rødvin",
+   "8 cl lemon sodavand",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et glas med is.",
+  "g": "billeder/tinto-de-verano.jpg"
+ },
+ {
+  "n": "Rosé Spritz",
+  "c": "Spritz",
+  "d": "Rosé, hyldeblomst og danskvand",
+  "i": [
+   "10 cl rosévin",
+   "1,5 cl koncentreret hyldeblomstsaft",
+   "5 cl danskvand",
+   "Jordbær",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is.",
+  "g": "billeder/rose-spritz.jpg"
+ },
+ {
+  "n": "Hvidvinsspritzer",
+  "c": "Spritz",
+  "d": "Hvidvin og danskvand",
+  "i": [
+   "10 cl hvidvin",
+   "6 cl danskvand",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is.",
+  "g": "billeder/hvidvinsspritzer.jpg"
+ },
+ {
+  "n": "Rabarber Spritz",
+  "c": "Spritz",
+  "d": "Rabarber og bobler",
+  "i": [
+   "3 cl rabarberlikør",
+   "9 cl prosecco",
+   "3 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is og rør forsigtigt.",
+  "g": "billeder/rabarber-spritz.jpg"
+ },
+ {
+  "n": "Gløgg",
+  "c": "Kaffe & dessert",
+  "d": "Varm vin med krydderier",
+  "i": [
+   "75 cl rødvin",
+   "10 cl portvin",
+   "1 dl sukker",
+   "Kanelstang",
+   "5 nelliker",
+   "Appelsinskal",
+   "Rosiner og mandler"
+  ],
+  "m": "Varm vin, portvin, sukker og krydderier op uden at det koger, og lad det trække. Server med rosiner og mandler.",
+  "g": "billeder/gloegg.jpg"
+ },
+ {
+  "n": "Midori Sour",
+  "c": "Likør",
+  "d": "Grøn melon og citron",
+  "i": [
+   "4 cl melonlikør",
+   "2 cl citronsaft",
+   "1 cl sukkersirup",
+   "6 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Ryst likør, citron og sirup med is, si over is og top med danskvand.",
+  "g": "billeder/midori-sour.jpg"
+ },
+ {
+  "n": "Grasshopper",
+  "c": "Kaffe & dessert",
+  "d": "Mynte, kakao og fløde",
+  "i": [
+   "3 cl grøn crème de menthe",
+   "3 cl hvid kakaolikør",
+   "3 cl fløde",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/grasshopper.jpg"
+ },
+ {
+  "n": "Fuzzy Navel",
+  "c": "Likør",
+  "d": "Fersken og appelsin",
+  "i": [
+   "4 cl ferskenlikør",
+   "12 cl appelsinjuice",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/fuzzy-navel.jpg"
+ },
+ {
+  "n": "Malibu Ananas",
+  "c": "Likør",
+  "d": "Kokos og ananas",
+  "i": [
+   "4 cl kokoslikør",
+   "12 cl ananasjuice",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/malibu-ananas.jpg"
+ },
+ {
+  "n": "Baileys på is",
+  "c": "Likør",
+  "d": "Cremet og enkelt",
+  "i": [
+   "5 cl Baileys",
+   "Isterninger"
+  ],
+  "m": "Hæld over is i et lavt glas.",
+  "g": "billeder/baileys-paa-is.jpg"
+ },
+ {
+  "n": "Jägerbomb",
+  "c": "Små Shots",
+  "d": "Jägermeister i energidrik",
+  "i": [
+   "4 cl Jägermeister",
+   "10 cl energidrik"
+  ],
+  "m": "Hæld energidrik i et glas og slip shotglasset med Jägermeister ned i.",
+  "g": "billeder/jagerbomb.jpg"
+ },
+ {
+  "n": "Limoncello Tonic",
+  "c": "Likør",
+  "d": "Citronlikør og tonic",
+  "i": [
+   "4 cl limoncello",
+   "12 cl tonic",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/limoncello-tonic.jpg"
+ },
+ {
+  "n": "Disaronno Cola",
+  "c": "Likør",
+  "d": "Amaretto og cola",
+  "i": [
+   "4 cl amaretto",
+   "12 cl cola",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/disaronno-cola.jpg"
+ },
+ {
+  "n": "Licor 43 Mini Beer",
+  "c": "Små Shots",
+  "d": "Ligner en lille øl",
+  "i": [
+   "3 cl Licor 43",
+   "1 cl fløde"
+  ],
+  "m": "Hæld likøren i et shotglas og lad fløden flyde ovenpå.",
+  "g": "billeder/licor-43-mini-beer.jpg"
+ },
+ {
+  "n": "Pink Squirrel",
+  "c": "Kaffe & dessert",
+  "d": "Mandel, kakao og fløde",
+  "i": [
+   "3 cl crème de noyaux",
+   "3 cl hvid kakaolikør",
+   "3 cl fløde",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/pink-squirrel.jpg"
+ },
+ {
+  "n": "Golden Cadillac",
+  "c": "Kaffe & dessert",
+  "d": "Vanilje, kakao og fløde",
+  "i": [
+   "3 cl Galliano",
+   "3 cl hvid kakaolikør",
+   "3 cl fløde",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/golden-cadillac.jpg"
+ },
+ {
+  "n": "Melon Ball",
+  "c": "Likør",
+  "d": "Melon, vodka og appelsin",
+  "i": [
+   "3 cl melonlikør",
+   "2 cl vodka",
+   "9 cl appelsinjuice",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/melon-ball.jpg"
+ },
+ {
+  "n": "Peach Iced Tea",
+  "c": "Likør",
+  "d": "Fersken og iste",
+  "i": [
+   "4 cl ferskenlikør",
+   "12 cl iste",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/peach-iced-tea.jpg"
+ },
+ {
+  "n": "Chambord Royale",
+  "c": "Likør",
+  "d": "Hindbærlikør og bobler",
+  "i": [
+   "2 cl hindbærlikør",
+   "12 cl prosecco"
+  ],
+  "m": "Hæld likøren i et champagneglas og top med prosecco.",
+  "g": "billeder/chambord-royale.jpg"
+ },
+ {
+  "n": "Ouzo og vand",
+  "c": "Likør",
+  "d": "Græsk anis, mælkehvid med vand",
+  "i": [
+   "4 cl ouzo",
+   "8 cl koldt vand",
+   "Isterninger"
+  ],
+  "m": "Hæld ouzo i et glas, tilføj vand og is.",
+  "g": "billeder/ouzo-og-vand.jpg"
+ },
+ {
+  "n": "Pimm's Cup",
+  "c": "Likør",
+  "d": "Engelsk sommer med frugt og agurk",
+  "i": [
+   "5 cl Pimm's No. 1",
+   "12 cl lemon sodavand",
+   "Agurk, jordbær og mynte",
+   "Isterninger"
+  ],
+  "m": "Fyld et højt glas med is og frugt, hæld Pimm's og sodavand over og rør.",
+  "g": "billeder/pimm-s-cup.jpg"
+ },
+ {
+  "n": "Kahlúa Mælk",
+  "c": "Kaffe & dessert",
+  "d": "Kaffelikør og mælk",
+  "i": [
+   "4 cl kaffelikør",
+   "12 cl mælk",
+   "Isterninger"
+  ],
+  "m": "Byg over is og rør.",
+  "g": "billeder/kahlua-maelk.jpg"
+ },
+ {
+  "n": "Sambuca con la Mosca",
+  "c": "Små Shots",
+  "d": "Sambuca med tre kaffebønner",
+  "i": [
+   "3 cl sambuca",
+   "3 kaffebønner"
+  ],
+  "m": "Hæld sambuca i et lille glas og læg tre kaffebønner i.",
+  "g": "billeder/sambuca-con-la-mosca.jpg"
+ },
+ {
+  "n": "Fisk og Cola",
+  "c": "Likør",
+  "d": "Den danske klassiker",
+  "i": [
+   "4 cl Fisk",
+   "12 cl cola",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/fisk-og-cola.jpg"
+ },
+ {
+  "n": "Gammel Dansk og tonic",
+  "c": "Likør",
+  "d": "Dansk bitter med tonic",
+  "i": [
+   "3 cl Gammel Dansk",
+   "12 cl tonic",
+   "Appelsinskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/gammel-dansk-og-tonic.jpg"
+ },
+ {
+  "n": "Hindbær Fizz",
+  "c": "Likør",
+  "d": "Hindbær og bobler",
+  "i": [
+   "3 cl hindbærlikør",
+   "1 cl citronsaft",
+   "10 cl danskvand",
+   "Friske hindbær",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/hindbaer-fizz.jpg"
+ },
+ {
+  "n": "Lakrids og cola",
+  "c": "Likør",
+  "d": "Lakridsshot i et højt glas",
+  "i": [
+   "4 cl lakridslikør",
+   "12 cl cola",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/lakrids-og-cola.jpg"
+ },
+ {
+  "n": "Aperol Sour",
+  "c": "Likør",
+  "d": "Bittersød appelsin med skum",
+  "i": [
+   "4,5 cl Aperol",
+   "2,5 cl citronsaft",
+   "1 cl sukkersirup",
+   "1 æggehvide",
+   "Isterninger"
+  ],
+  "m": "Ryst først uden is, så med is, og si over is.",
+  "g": "billeder/aperol-sour.jpg"
+ },
+ {
+  "n": "Campari Orange",
+  "c": "Likør",
+  "d": "Campari og appelsinjuice",
+  "i": [
+   "4 cl Campari",
+   "12 cl appelsinjuice",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/campari-orange.jpg"
+ },
+ {
+  "n": "B-52",
+  "c": "Små Shots",
+  "d": "Tre lag kaffe, fløde og appelsin",
+  "i": [
+   "1,5 cl kaffelikør",
+   "1,5 cl Baileys",
+   "1,5 cl Grand Marnier"
+  ],
+  "m": "Hæld i lag over bagsiden af en ske i den rækkefølge.",
+  "g": "billeder/b-52.jpg"
+ },
+ {
+  "n": "Tequila Slammer",
+  "c": "Små Shots",
+  "d": "Tequila og bobler slået i bordet",
+  "i": [
+   "2 cl tequila",
+   "2 cl lemon sodavand"
+  ],
+  "m": "Hæld i et shotglas med låg eller hånd over, slå glasset ned i bordet og drik med det samme.",
+  "g": "billeder/tequila-slammer.jpg"
+ },
+ {
+  "n": "Tequila Shot",
+  "c": "Små Shots",
+  "d": "Salt, tequila og lime",
+  "i": [
+   "3 cl tequila",
+   "Salt",
+   "Limebåd"
+  ],
+  "m": "Slik salt, drik tequila, bid i lime.",
+  "g": "billeder/tequila-shot.jpg"
+ },
+ {
+  "n": "Lemon Drop Shot",
+  "c": "Små Shots",
+  "d": "Citronvodka med sukker og citron",
+  "i": [
+   "3 cl citronvodka",
+   "Citronbåd",
+   "Sukker"
+  ],
+  "m": "Dyp citronbåden i sukker. Drik vodkaen og bid i citronen.",
+  "g": "billeder/lemon-drop-shot.jpg"
+ },
+ {
+  "n": "Kamikaze Shot",
+  "c": "Små Shots",
+  "d": "Vodka, triple sec og lime",
+  "i": [
+   "1,5 cl vodka",
+   "1,5 cl triple sec",
+   "1,5 cl limesaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i shotglas.",
+  "g": "billeder/kamikaze-shot.jpg"
+ },
+ {
+  "n": "Baby Guinness",
+  "c": "Små Shots",
+  "d": "Ligner en lille Guinness",
+  "i": [
+   "3 cl kaffelikør",
+   "1 cl Baileys"
+  ],
+  "m": "Hæld kaffelikør i et shotglas og lad Baileys flyde ovenpå.",
+  "g": "billeder/baby-guinness.jpg"
+ },
+ {
+  "n": "Slippery Nipple",
+  "c": "Små Shots",
+  "d": "Sambuca og Baileys i lag",
+  "i": [
+   "2 cl sambuca",
+   "1,5 cl Baileys"
+  ],
+  "m": "Hæld Baileys forsigtigt over sambucaen.",
+  "g": "billeder/slippery-nipple.jpg"
+ },
+ {
+  "n": "Fisk med citron",
+  "c": "Små Shots",
+  "d": "Fisk med citron",
+  "i": [
+   "3 cl Fisk",
+   "Citronbåd"
+  ],
+  "m": "Drik og bid i citron.",
+  "g": "billeder/fisk-med-citron.jpg"
+ },
+ {
+  "n": "Green Tea Shot",
+  "c": "Små Shots",
+  "d": "Smager overraskende af grøn te",
+  "i": [
+   "1,5 cl whiskey",
+   "1,5 cl ferskenlikør",
+   "1,5 cl sweet and sour mix",
+   "1 cl lemon sodavand",
+   "Isterninger"
+  ],
+  "m": "Ryst whiskey, fersken og sour mix med is, si op og top med sodavand.",
+  "g": "billeder/green-tea-shot.jpg"
+ },
+ {
+  "n": "Pickleback",
+  "c": "Små Shots",
+  "d": "Whiskey med et skud agurkelage",
+  "i": [
+   "3 cl whiskey",
+   "3 cl agurkelage"
+  ],
+  "m": "Drik whiskey og følg op med lagen.",
+  "g": "billeder/pickleback.jpg"
+ },
+ {
+  "n": "Mexicaner",
+  "c": "Små Shots",
+  "d": "Tomat, chili og tequila",
+  "i": [
+   "2 cl tequila",
+   "2 cl tomatjuice",
+   "1 stænk Tabasco",
+   "Salt og peber"
+  ],
+  "m": "Hæld tomatjuice med Tabasco i et shotglas og tequila forsigtigt ovenpå.",
+  "g": "billeder/mexicaner.jpg"
+ },
+ {
+  "n": "Brain Hemorrhage",
+  "c": "Små Shots",
+  "d": "Ferskenlikør, Baileys og grenadine",
+  "i": [
+   "2 cl ferskenlikør",
+   "1 cl Baileys",
+   "0,5 cl grenadine"
+  ],
+  "m": "Hæld ferskenlikør i glasset, dryp Baileys og til sidst grenadine.",
+  "g": "billeder/brain-hemorrhage.jpg"
+ },
+ {
+  "n": "Snyder",
+  "c": "Små Shots",
+  "d": "Vodka og blue curaçao",
+  "i": [
+   "2 cl vodka",
+   "1 cl blue curaçao",
+   "1 cl limesaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i shotglas.",
+  "g": "billeder/snyder.jpg"
+ },
+ {
+  "n": "Kaffe Shot",
+  "c": "Små Shots",
+  "d": "Vodka og kaffelikør",
+  "i": [
+   "2 cl vodka",
+   "2 cl kaffelikør"
+  ],
+  "m": "Hæld i et shotglas og drik koldt.",
+  "g": "billeder/kaffe-shot.jpg"
+ },
+ {
+  "n": "Vanilje Bomb",
+  "c": "Små Shots",
+  "d": "Vanilje og cola",
+  "i": [
+   "3 cl vaniljevodka",
+   "1 cl cola"
+  ],
+  "m": "Hæld vodka i et shotglas og top med en sjat cola.",
+  "g": "billeder/vanilje-bomb.jpg"
+ },
+ {
+  "n": "Carajillo",
+  "c": "Kaffe & dessert",
+  "d": "Spansk kaffe med Licor 43",
+  "i": [
+   "5 cl Licor 43",
+   "4 cl espresso",
+   "Isterninger"
+  ],
+  "m": "Hæld likør over is og espresso ovenpå, eller ryst begge med is og si op.",
+  "g": "billeder/carajillo.jpg"
+ },
+ {
+  "n": "Baileys Kaffe",
+  "c": "Kaffe & dessert",
+  "d": "Kaffe med Baileys og flødeskum",
+  "i": [
+   "4 cl Baileys",
+   "12 cl varm kaffe",
+   "Flødeskum"
+  ],
+  "m": "Hæld Baileys i et varmt glas, top med kaffe og flødeskum.",
+  "g": "billeder/baileys-kaffe.jpg"
+ },
+ {
+  "n": "Kaffe Karlsson",
+  "c": "Kaffe & dessert",
+  "d": "Kaffe med cognac og flødeskum",
+  "i": [
+   "3 cl cognac",
+   "12 cl varm kaffe",
+   "1 tsk sukker",
+   "Flødeskum"
+  ],
+  "m": "Rør sukker ud i kaffe og cognac, og top med flødeskum.",
+  "g": "billeder/kaffe-karlsson.jpg"
+ },
+ {
+  "n": "Pharisäer",
+  "c": "Kaffe & dessert",
+  "d": "Tysk kaffe med rom og fløde",
+  "i": [
+   "4 cl mørk rom",
+   "1 tsk sukker",
+   "12 cl varm kaffe",
+   "Flødeskum"
+  ],
+  "m": "Rør sukker og rom ud i kaffen og lav et tykt lag flødeskum ovenpå.",
+  "g": "billeder/pharisaer.jpg"
+ },
+ {
+  "n": "Mudslide Frappé",
+  "c": "Kaffe & dessert",
+  "d": "Blendet med is",
+  "i": [
+   "3 cl vodka",
+   "3 cl kaffelikør",
+   "3 cl Baileys",
+   "2 scoop vaniljeis",
+   "Knust is"
+  ],
+  "m": "Blend til glat og cremet.",
+  "g": "billeder/mudslide-frappe.jpg"
+ },
+ {
+  "n": "Espresso Tonic",
+  "c": "Kaffe & dessert",
+  "d": "Kaffe og tonic uden alkohol",
+  "i": [
+   "4 cl espresso",
+   "12 cl tonic",
+   "Appelsinskive",
+   "Isterninger"
+  ],
+  "m": "Hæld tonic over is og espressoen langsomt ovenpå.",
+  "g": "billeder/espresso-tonic.jpg"
+ },
+ {
+  "n": "Salted Caramel White Russian",
+  "c": "Kaffe & dessert",
+  "d": "White Russian med karamel",
+  "i": [
+   "4 cl vodka",
+   "2 cl kaffelikør",
+   "2 cl karamelsirup",
+   "3 cl fløde",
+   "Salt",
+   "Isterninger"
+  ],
+  "m": "Byg vodka, kaffelikør og sirup over is, og lad fløden flyde ovenpå med et nip salt.",
+  "g": "billeder/salted-caramel-white-russian.jpg"
+ },
+ {
+  "n": "Varm Kakao med Rom",
+  "c": "Kaffe & dessert",
+  "d": "Kakao, rom og flødeskum",
+  "i": [
+   "4 cl mørk rom",
+   "20 cl varm kakaomælk",
+   "Flødeskum"
+  ],
+  "m": "Hæld rom i en kop varm kakao og top med flødeskum.",
+  "g": "billeder/varm-kakao-med-rom.jpg"
+ },
+ {
+  "n": "Eggnog",
+  "c": "Kaffe & dessert",
+  "d": "Æggepunch med krydderi",
+  "i": [
+   "4 cl cognac eller rom",
+   "6 cl mælk",
+   "3 cl fløde",
+   "1 æggeblomme",
+   "1,5 cl sukkersirup",
+   "Revet muskatnød",
+   "Isterninger"
+  ],
+  "m": "Ryst hårdt med is, si op og riv muskat ovenpå.",
+  "g": "billeder/eggnog.jpg"
+ },
+ {
+  "n": "Affogato al Baileys",
+  "c": "Kaffe & dessert",
+  "d": "Vaniljeis, espresso og Baileys",
+  "i": [
+   "1 scoop vaniljeis",
+   "3 cl espresso",
+   "2 cl Baileys"
+  ],
+  "m": "Læg isen i et glas og hæld varm espresso og Baileys over.",
+  "g": "billeder/affogato-al-baileys.jpg"
+ },
+ {
+  "n": "After Eight",
+  "c": "Kaffe & dessert",
+  "d": "Mynte og chokolade",
+  "i": [
+   "2 cl grøn crème de menthe",
+   "2 cl mørk kakaolikør",
+   "2 cl fløde",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et lille glas.",
+  "g": "billeder/after-eight.jpg"
+ },
+ {
+  "n": "Toblerone",
+  "c": "Kaffe & dessert",
+  "d": "Honning, nougat og kakao",
+  "i": [
+   "2 cl Baileys",
+   "2 cl kaffelikør",
+   "2 cl Frangelico",
+   "1 tsk honning",
+   "3 cl fløde",
+   "Isterninger"
+  ],
+  "m": "Ryst hårdt med is og si op.",
+  "g": "billeder/toblerone.jpg"
+ },
+ {
+  "n": "Chokolade Martini",
+  "c": "Kaffe & dessert",
+  "d": "Kakao og vodka",
+  "i": [
+   "4 cl vodka",
+   "3 cl mørk kakaolikør",
+   "2 cl fløde",
+   "Kakaopulver",
+   "Isterninger"
+  ],
+  "m": "Ryst med is, si op og drys kakao ovenpå.",
+  "g": "billeder/chokolade-martini.jpg"
+ },
+ {
+  "n": "Shirley Temple",
+  "c": "Alkoholfri",
+  "d": "Ginger ale og grenadine",
+  "i": [
+   "12 cl ginger ale",
+   "1,5 cl grenadine",
+   "Cocktailbær",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og pynt med et kirsebær.",
+  "g": "billeder/shirley-temple.jpg"
+ },
+ {
+  "n": "Virgin Piña Colada",
+  "c": "Alkoholfri",
+  "d": "Kokos og ananas uden rom",
+  "i": [
+   "4 cl kokosfløde",
+   "12 cl ananasjuice",
+   "Knust is"
+  ],
+  "m": "Blend med knust is.",
+  "g": "billeder/virgin-pina-colada.jpg"
+ },
+ {
+  "n": "Virgin Mary",
+  "c": "Alkoholfri",
+  "d": "Krydret tomat",
+  "i": [
+   "12 cl tomatjuice",
+   "1,5 cl citronsaft",
+   "3 stænk Worcestershire sauce",
+   "2 stænk Tabasco",
+   "Salt og peber",
+   "Isterninger"
+  ],
+  "m": "Rør alt med is i et højt glas.",
+  "g": "billeder/virgin-mary.jpg"
+ },
+ {
+  "n": "Arnold Palmer",
+  "c": "Alkoholfri",
+  "d": "Halvt iste, halvt lemonade",
+  "i": [
+   "8 cl iste",
+   "8 cl lemonade",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/arnold-palmer.jpg"
+ },
+ {
+  "n": "Hyldeblomst Fizz",
+  "c": "Alkoholfri",
+  "d": "Hyldeblomst, citron og bobler",
+  "i": [
+   "3 cl koncentreret hyldeblomstsaft",
+   "1,5 cl citronsaft",
+   "12 cl danskvand",
+   "Mynteblade",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/hyldeblomst-fizz.jpg"
+ },
+ {
+  "n": "Virgin Margarita",
+  "c": "Alkoholfri",
+  "d": "Lime og appelsin med saltkant",
+  "i": [
+   "4 cl limesaft",
+   "4 cl appelsinjuice",
+   "2 cl agavesirup",
+   "Saltkant",
+   "Isterninger"
+  ],
+  "m": "Lav saltkant. Ryst resten med is og si op.",
+  "g": "billeder/virgin-margarita.jpg"
+ },
+ {
+  "n": "Mango Lassi Mocktail",
+  "c": "Alkoholfri",
+  "d": "Mango og yoghurt",
+  "i": [
+   "8 cl mangojuice",
+   "6 cl yoghurt naturel",
+   "1 tsk honning",
+   "Kardemomme",
+   "Isterninger"
+  ],
+  "m": "Blend eller ryst med is.",
+  "g": "billeder/mango-lassi-mocktail.jpg"
+ },
+ {
+  "n": "Hjemmelavet Lemonade",
+  "c": "Alkoholfri",
+  "d": "Citron, sukker og vand",
+  "i": [
+   "4 cl citronsaft",
+   "3 cl sukkersirup",
+   "12 cl danskvand",
+   "Citronskive",
+   "Isterninger"
+  ],
+  "m": "Rør citron og sirup sammen i et glas med is og top med danskvand.",
+  "g": "billeder/hjemmelavet-lemonade.jpg"
+ },
+ {
+  "n": "Jordbær Lemonade",
+  "c": "Alkoholfri",
+  "d": "Lemonade med jordbær",
+  "i": [
+   "4 cl citronsaft",
+   "3 cl sukkersirup",
+   "5 jordbær",
+   "12 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Mos jordbær med sirup, tilføj citron og is og top med danskvand.",
+  "g": "billeder/jordbaer-lemonade.jpg"
+ },
+ {
+  "n": "Ingefær Mule",
+  "c": "Alkoholfri",
+  "d": "Mule uden vodka",
+  "i": [
+   "2 cl limesaft",
+   "14 cl ginger beer",
+   "Mynteblade",
+   "Isterninger"
+  ],
+  "m": "Byg i et krus med is.",
+  "g": "billeder/ingefaer-mule.jpg"
+ },
+ {
+  "n": "Roy Rogers",
+  "c": "Alkoholfri",
+  "d": "Cola og grenadine",
+  "i": [
+   "12 cl cola",
+   "1,5 cl grenadine",
+   "Cocktailbær",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/roy-rogers.jpg"
+ },
+ {
+  "n": "Agurk Tonic",
+  "c": "Alkoholfri",
+  "d": "Agurk, lime og tonic",
+  "i": [
+   "3 skiver agurk",
+   "1,5 cl limesaft",
+   "12 cl tonic",
+   "Isterninger"
+  ],
+  "m": "Læg agurk og is i et glas, tilføj lime og top med tonic.",
+  "g": "billeder/agurk-tonic.jpg"
+ },
+ {
+  "n": "Tropisk Punch",
+  "c": "Alkoholfri",
+  "d": "Ananas, appelsin og passion",
+  "i": [
+   "6 cl ananasjuice",
+   "6 cl appelsinjuice",
+   "3 cl passionsfrugtjuice",
+   "1 cl grenadine",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og hæld over is.",
+  "g": "billeder/tropisk-punch.jpg"
+ },
+ {
+  "n": "Æble Fizz",
+  "c": "Alkoholfri",
+  "d": "Æblejuice og danskvand",
+  "i": [
+   "10 cl æblejuice",
+   "6 cl danskvand",
+   "1 cl citronsaft",
+   "Kanelstang",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/aeble-fizz.jpg"
+ },
+ {
+  "n": "Passion Spritz uden alkohol",
+  "c": "Alkoholfri",
+  "d": "Passionsfrugt og bobler",
+  "i": [
+   "½ passionsfrugt",
+   "2 cl sukkersirup",
+   "1,5 cl limesaft",
+   "12 cl alkoholfri mousserende vin",
+   "Isterninger"
+  ],
+  "m": "Rør passionsfrugt, sirup og lime sammen i et vinglas med is og top med bobler.",
+  "g": "billeder/passion-spritz-uden-alkohol.jpg"
+ },
+ {
+  "n": "Cranberry Fizz",
+  "c": "Alkoholfri",
+  "d": "Tranebær og lime",
+  "i": [
+   "8 cl tranebærjuice",
+   "1,5 cl limesaft",
+   "8 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is.",
+  "g": "billeder/cranberry-fizz.jpg"
+ },
+ {
+  "n": "Hindbær Lemonade",
+  "c": "Alkoholfri",
+  "d": "Hindbær og citron",
+  "i": [
+   "4 cl citronsaft",
+   "3 cl hindbærsirup",
+   "12 cl danskvand",
+   "Friske hindbær",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/hindbaer-lemonade.jpg"
+ },
+ {
+  "n": "Iskaffe",
+  "c": "Alkoholfri",
+  "d": "Kold kaffe med mælk",
+  "i": [
+   "8 cl kold kaffe",
+   "6 cl mælk",
+   "1,5 cl sukkersirup",
+   "Isterninger"
+  ],
+  "m": "Rør sammen i et glas med is.",
+  "g": "billeder/iskaffe.jpg"
+ },
+ {
+  "n": "Chokolademilkshake",
+  "c": "Alkoholfri",
+  "d": "Tyk og kold",
+  "i": [
+   "3 scoop vaniljeis",
+   "10 cl kakaomælk",
+   "Flødeskum"
+  ],
+  "m": "Blend is og kakaomælk og top med flødeskum.",
+  "g": "billeder/chokolademilkshake.jpg"
+ },
+ {
+  "n": "Jordbærmilkshake",
+  "c": "Alkoholfri",
+  "d": "Jordbær og vaniljeis",
+  "i": [
+   "3 scoop vaniljeis",
+   "10 cl mælk",
+   "6 jordbær"
+  ],
+  "m": "Blend til glat.",
+  "g": "billeder/jordbaermilkshake.jpg"
+ },
+ {
+  "n": "Gin Tonic uden gin",
+  "c": "Alkoholfri",
+  "d": "Alkoholfri gin og tonic",
+  "i": [
+   "4 cl alkoholfri gin",
+   "12 cl tonic",
+   "Limeskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et ballonglas med is.",
+  "g": "billeder/gin-tonic-uden-gin.jpg"
+ },
+ {
+  "n": "Alkoholfri Spritz",
+  "c": "Alkoholfri",
+  "d": "Bittersød appelsin uden alkohol",
+  "i": [
+   "6 cl alkoholfri aperitif",
+   "9 cl alkoholfri mousserende vin",
+   "3 cl danskvand",
+   "Appelsinskive",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is.",
+  "g": "billeder/alkoholfri-spritz.jpg"
+ },
+ {
+  "n": "Blue Lagoon uden alkohol",
+  "c": "Alkoholfri",
+  "d": "Blå og frisk",
+  "i": [
+   "2 cl BARMIX Blue Curaçao Sirup",
+   "2 cl limesaft",
+   "12 cl lemon sodavand",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/blue-lagoon-uden-alkohol.jpg"
+ },
+ {
+  "n": "Grenadine Sunrise",
+  "c": "Alkoholfri",
+  "d": "Appelsin og grenadine i lag",
+  "i": [
+   "14 cl appelsinjuice",
+   "1,5 cl grenadine",
+   "Isterninger"
+  ],
+  "m": "Hæld juice over is og grenadine langsomt ned i bunden.",
+  "g": "billeder/grenadine-sunrise.jpg"
+ },
+ {
+  "n": "Long Island Iced Tea",
+  "c": "Vodka",
+  "d": "Fem slags sprut, smager af iste",
+  "i": [
+   "1,5 cl vodka",
+   "1,5 cl gin",
+   "1,5 cl hvid rom",
+   "1,5 cl tequila",
+   "1,5 cl triple sec",
+   "2,5 cl citronsaft",
+   "1,5 cl sukkersirup",
+   "Cola",
+   "Isterninger"
+  ],
+  "m": "Ryst alt undtagen cola med is, hæld over is i et højt glas og top med en sjat cola.",
+  "g": "billeder/long-island-iced-tea.jpg"
+ },
+ {
+  "n": "Adios",
+  "c": "Vodka",
+  "d": "Long Island med blue curaçao og Sprite",
+  "i": [
+   "1,5 cl vodka",
+   "1,5 cl gin",
+   "1,5 cl hvid rom",
+   "1,5 cl tequila",
+   "1,5 cl blue curaçao",
+   "2 cl citronsaft",
+   "Sprite",
+   "Isterninger"
+  ],
+  "m": "Byg over is i et højt glas og top med Sprite.",
+  "g": "billeder/adios.jpg"
+ },
+ {
+  "n": "Long Beach Iced Tea",
+  "c": "Vodka",
+  "d": "Long Island med tranebær",
+  "i": [
+   "1,5 cl vodka",
+   "1,5 cl gin",
+   "1,5 cl hvid rom",
+   "1,5 cl tequila",
+   "1,5 cl triple sec",
+   "2 cl citronsaft",
+   "Tranebærjuice",
+   "Isterninger"
+  ],
+  "m": "Byg over is i et højt glas og top med tranebær.",
+  "g": "billeder/long-beach-iced-tea.jpg"
+ },
+ {
+  "n": "Electric Lemonade",
+  "c": "Vodka",
+  "d": "Blå lemonade med vodka",
+  "i": [
+   "4 cl vodka",
+   "2 cl blue curaçao",
+   "2 cl citronsaft",
+   "1 cl sukkersirup",
+   "Sprite",
+   "Isterninger"
+  ],
+  "m": "Ryst alt undtagen Sprite med is, hæld over is og top med Sprite.",
+  "g": "billeder/electric-lemonade.jpg"
+ },
+ {
+  "n": "Caipirinha",
+  "c": "Rom",
+  "d": "Brasiliens nationaldrink med cachaça",
+  "i": [
+   "5 cl cachaça",
+   "½ lime i både",
+   "2 tsk rørsukker",
+   "Knust is"
+  ],
+  "m": "Mos lime og sukker i glasset, fyld med knust is, hæld cachaça over og rør.",
+  "g": "billeder/caipirinha.jpg"
+ },
+ {
+  "n": "Batida de Coco",
+  "c": "Rom",
+  "d": "Cachaça og kokos",
+  "i": [
+   "5 cl cachaça",
+   "4 cl kokosfløde",
+   "3 cl kondenseret mælk",
+   "Knust is"
+  ],
+  "m": "Blend med knust is.",
+  "g": "billeder/batida-de-coco.jpg"
+ },
+ {
+  "n": "Old Cuban",
+  "c": "Rom",
+  "d": "Mojito med champagne",
+  "i": [
+   "4,5 cl mørk rom",
+   "2 cl limesaft",
+   "2 cl sukkersirup",
+   "6 mynteblade",
+   "1 stænk Angostura",
+   "6 cl champagne eller prosecco",
+   "Isterninger"
+  ],
+  "m": "Ryst alt undtagen bobler med is, si op i et coupeglas og top med bobler.",
+  "g": "billeder/old-cuban.jpg"
+ },
+ {
+  "n": "Air Mail",
+  "c": "Rom",
+  "d": "Rom, honning og bobler",
+  "i": [
+   "3 cl mørk rom",
+   "1,5 cl limesaft",
+   "1,5 cl honningsirup",
+   "6 cl champagne eller prosecco",
+   "Isterninger"
+  ],
+  "m": "Ryst rom, lime og honning med is, si op og top med bobler.",
+  "g": "billeder/air-mail.jpg"
+ },
+ {
+  "n": "Queen's Park Swizzle",
+  "c": "Rom",
+  "d": "Mynte, lime og bitter i lag",
+  "i": [
+   "6 cl mørk rom",
+   "2,5 cl limesaft",
+   "2 cl sukkersirup",
+   "8 mynteblade",
+   "4 stænk Angostura",
+   "Knust is"
+  ],
+  "m": "Mos mynte i et højt glas, tilføj rom, lime, sirup og knust is, rør og dryp bitter ovenpå.",
+  "g": "billeder/queen-s-park-swizzle.jpg"
+ },
+ {
+  "n": "Mojito Royal",
+  "c": "Rom",
+  "d": "Mojito med prosecco",
+  "i": [
+   "4 cl hvid rom",
+   "2 cl limesaft",
+   "2 tsk rørsukker",
+   "8 mynteblade",
+   "6 cl prosecco",
+   "Knust is"
+  ],
+  "m": "Byg som en mojito, men top med prosecco i stedet for danskvand.",
+  "g": "billeder/mojito-royal.jpg"
+ },
+ {
+  "n": "Trinidad Sour",
+  "c": "Whisky",
+  "d": "Angostura som hovedrolle",
+  "i": [
+   "4,5 cl Angostura",
+   "3 cl orgeat",
+   "2 cl citronsaft",
+   "1,5 cl rugwhiskey",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/trinidad-sour.jpg"
+ },
+ {
+  "n": "Brooklyn",
+  "c": "Whisky",
+  "d": "Rug, tør vermouth og maraschino",
+  "i": [
+   "6 cl rugwhiskey",
+   "3 cl tør vermouth",
+   "0,75 cl maraschino",
+   "1 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op.",
+  "g": "billeder/brooklyn.jpg"
+ },
+ {
+  "n": "Toronto",
+  "c": "Whisky",
+  "d": "Rug med et strejf af Fernet",
+  "i": [
+   "6 cl rugwhiskey",
+   "0,75 cl Fernet-Branca",
+   "0,5 cl sukkersirup",
+   "2 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op.",
+  "g": "billeder/toronto.jpg"
+ },
+ {
+  "n": "Naked & Famous",
+  "c": "Tequila",
+  "d": "Mezcal, Aperol og Chartreuse",
+  "i": [
+   "2,25 cl mezcal",
+   "2,25 cl Aperol",
+   "2,25 cl gul Chartreuse",
+   "2,25 cl limesaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op i et kølet glas.",
+  "g": "billeder/naked-famous.jpg"
+ },
+ {
+  "n": "Garibaldi",
+  "c": "Likør",
+  "d": "Campari og luftig appelsinjuice",
+  "i": [
+   "4 cl Campari",
+   "12 cl friskpresset appelsinjuice",
+   "Isterninger"
+  ],
+  "m": "Pisk eller blend appelsinjuicen, til den skummer, og hæld over Campari og is.",
+  "g": "billeder/garibaldi.jpg"
+ },
+ {
+  "n": "Bronx",
+  "c": "Gin",
+  "d": "Gin, to vermouth og appelsin",
+  "i": [
+   "3 cl gin",
+   "1,5 cl sød vermouth",
+   "1,5 cl tør vermouth",
+   "3 cl appelsinjuice",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/bronx.jpg"
+ },
+ {
+  "n": "Tuxedo",
+  "c": "Gin",
+  "d": "Tør martini med maraschino og absint",
+  "i": [
+   "4,5 cl gin",
+   "3 cl tør vermouth",
+   "0,5 cl maraschino",
+   "1 stænk absint",
+   "2 stænk orange bitter",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op. Pynt med et kirsebær.",
+  "g": "billeder/tuxedo.jpg"
+ },
+ {
+  "n": "Pegu Club",
+  "c": "Gin",
+  "d": "Gin, lime og appelsin",
+  "i": [
+   "4,5 cl gin",
+   "2 cl triple sec",
+   "1,5 cl limesaft",
+   "1 stænk Angostura",
+   "1 stænk orange bitter",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/pegu-club.jpg"
+ },
+ {
+  "n": "Gin Gin Mule",
+  "c": "Gin",
+  "d": "Mynte, lime og ginger beer",
+  "i": [
+   "4,5 cl gin",
+   "2,5 cl limesaft",
+   "2 cl sukkersirup",
+   "6 mynteblade",
+   "6 cl ginger beer",
+   "Isterninger"
+  ],
+  "m": "Ryst gin, lime, sirup og mynte med is, si over is og top med ginger beer.",
+  "g": "billeder/gin-gin-mule.jpg"
+ },
+ {
+  "n": "Army & Navy",
+  "c": "Gin",
+  "d": "Gin, citron og mandel",
+  "i": [
+   "5 cl gin",
+   "2 cl citronsaft",
+   "1,5 cl orgeat",
+   "2 stænk Angostura",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/army-navy.jpg"
+ },
+ {
+  "n": "Charlie Chaplin",
+  "c": "Likør",
+  "d": "Abrikos, slåen og lime",
+  "i": [
+   "3 cl abrikoslikør",
+   "3 cl sloe gin",
+   "3 cl limesaft",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/charlie-chaplin.jpg"
+ },
+ {
+  "n": "Jack Rose",
+  "c": "Cognac & brandy",
+  "d": "Æble, grenadine og citron",
+  "i": [
+   "5 cl calvados",
+   "2 cl citronsaft",
+   "1,5 cl grenadine",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/jack-rose.jpg"
+ },
+ {
+  "n": "Adonis",
+  "c": "Spritz",
+  "d": "Sherry og vermouth, let og tør",
+  "i": [
+   "4,5 cl fino sherry",
+   "4,5 cl sød vermouth",
+   "2 stænk orange bitter",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op.",
+  "g": "billeder/adonis.jpg"
+ },
+ {
+  "n": "Bamboo",
+  "c": "Spritz",
+  "d": "Tør sherry og tør vermouth",
+  "i": [
+   "4,5 cl fino sherry",
+   "4,5 cl tør vermouth",
+   "1 stænk Angostura",
+   "1 stænk orange bitter",
+   "Isterninger"
+  ],
+  "m": "Rør med is og si op.",
+  "g": "billeder/bamboo.jpg"
+ },
+ {
+  "n": "Sloe Gin Fizz",
+  "c": "Gin",
+  "d": "Slåenbær og bobler",
+  "i": [
+   "4,5 cl sloe gin",
+   "2 cl citronsaft",
+   "1 cl sukkersirup",
+   "8 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Ryst sloe gin, citron og sirup med is, si op og top med danskvand.",
+  "g": "billeder/sloe-gin-fizz.jpg"
+ },
+ {
+  "n": "Blue Monday",
+  "c": "Vodka",
+  "d": "Vodka, appelsinlikør og blue curaçao",
+  "i": [
+   "4 cl vodka",
+   "1,5 cl triple sec",
+   "1 cl blue curaçao",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/blue-monday.jpg"
+ },
+ {
+  "n": "Godiva Martini",
+  "c": "Kaffe & dessert",
+  "d": "Hvid chokolade og vodka",
+  "i": [
+   "4 cl vaniljevodka",
+   "3 cl hvid kakaolikør",
+   "2 cl fløde",
+   "Isterninger"
+  ],
+  "m": "Ryst med is og si op.",
+  "g": "billeder/godiva-martini.jpg"
+ },
+ {
+  "n": "Rhubarb Collins",
+  "c": "Gin",
+  "d": "Rabarber og citron",
+  "i": [
+   "4 cl gin",
+   "2 cl rabarbersirup",
+   "2 cl citronsaft",
+   "8 cl danskvand",
+   "Isterninger"
+  ],
+  "m": "Byg i et højt glas med is og rør.",
+  "g": "billeder/rhubarb-collins.jpg"
+ },
+ {
+  "n": "Paloma Spritz",
+  "c": "Spritz",
+  "d": "Grape, tequila og prosecco",
+  "i": [
+   "3 cl tequila",
+   "4 cl grapejuice",
+   "1 cl limesaft",
+   "8 cl prosecco",
+   "Isterninger"
+  ],
+  "m": "Byg i et vinglas med is.",
+  "g": "billeder/paloma-spritz.jpg"
+ },
+ {
+  "n": "Dark Mojito",
+  "c": "Rom",
+  "d": "Mojito med mørk rom og ginger beer",
+  "i": [
+   "5 cl mørk rom",
+   "2 cl limesaft",
+   "2 tsk rørsukker",
+   "8 mynteblade",
+   "6 cl ginger beer",
+   "Knust is"
+  ],
+  "m": "Mos mynte, lime og sukker, fyld med knust is, tilføj rom og top med ginger beer.",
+  "g": "billeder/dark-mojito.jpg"
+ }
+]
